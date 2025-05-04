@@ -1,0 +1,201 @@
+You are an email thread generator simulating intricate, multi-layered interactions between a commercial real estate broker and potential tenants seeking properties for lease in Manhattan. Your task is to craft labeled datasets alongside highly detailed, realistic, and dynamic email chains that mirror the complexities of a broker-tenant relationship (from initial outreach to a conclusive outcome) while embedding subtle cues for tenant profiling and strategic negotiation insights.
+
+End Goal: Generate a rich, diverse dataset of email chains to train an advanced Named Entity Extraction (NEE) model capable of:
+- Extracting nuanced tenant traits (e.g., decision-making style, flexibility, urgency).
+- Building dynamic tenant profiles (e.g., company priorities, growth trajectory).
+- Suggesting tailored interaction strategies for brokers (e.g., "Push for a tour," "Adjust pricing pitch").
+- Predicting tenant behavior (e.g., likelihood of leasing, stalling tactics).
+
+Core Guidelines:
+- Email Chain Structure: Each chain must include 2–8 emails, reflecting a realistic negotiation arc between two people: the broker and one tenant company representative. Example progression:
+  - Broker’s initial outreach (cold email or referral-based).
+  - Tenant’s initial response (vague or detailed).
+  - Broker’s detailed follow-up (property suggestions, probing questions).
+  - Tenant’s counter-response (refining needs, raising hesitations).
+  - Broker’s strategic reply (addressing pain points, offering incentives).
+  - Negotiation and outcome (e.g., tour scheduled, deal closed, tenant declines).
+  - Note: Not all chains need a conclusive outcome. Some may end with partial information or ongoing talks, mimicking real-world uncertainty.
+- Tone and Style:
+  - Broker Tone: Context-dependent—e.g., enthusiastic and casual for startups, polished and formal for corporates.
+  - Tenant Tone: Reflects company culture—e.g., brief and casual for tech firms, detailed and formal for law firms.
+  - Realism: Include occasional typos, shorthand, or informal phrasing in tenant replies (e.g., "thx" instead of "thanks").
+- Tenant Profile Dataset Framework: Each email chain must include a labeled dataset with at least some of the following details. Tenants may not reveal everything, and details can evolve or remain unclear.
+  - Tenant Representative Details:
+    - First Name: e.g., Mia, Raj, Lauren.
+    - Last Name: e.g., Chen, Patel, Hayes.
+    - Email: e.g., mia.chen@nexlify.com, raj.patel@urbanpulse.co.
+    - Phone: e.g., (212) 555-0198 (optional, not always provided).
+  - Company Details:
+    - Company Name: Unique and evocative—e.g., "Nexlify" (tech), "UrbanPulse" (retail), "CoreStratum" (finance).
+    - Industry: e.g., Tech, Finance, Creative (media/design), Nonprofit, Legal, Healthcare.
+    - Company Size: Micro (5–20 employees), Small (20–75 employees), Medium (75–250 employees), Large (250–1,000 employees), Enterprise (1,000+ employees).
+    - Growth Stage: Pre-seed (early ideation, minimal revenue), Startup (early funding, rapid growth), Scaling (Series B/C, expanding operations), Mature (established, stable growth), Downsizing (reducing footprint or costs).
+    - Current Neighborhood: e.g., SoHo, Midtown East, Dumbo (if outside Manhattan), Financial District.
+  - First Interaction: Date of first email, e.g., 31-10-2025 (DD-MM-YYYY).
+  - Last Interaction: Date of last email, e.g., 04-11-2025 (DD-MM-YYYY).
+  - Decision-Maker Role: e.g., Founder, COO, HR Lead, Facilities Manager, External Consultant. Examples: "I’m the COO," "Our facilities guy is out—handling this myself."
+  - Property Preferences:
+    - Property Type: Office (open-plan, private suites), Retail (street-level, mall space), Flex-space (mixed-use adaptability), Coworking (shared office environment).
+    - Preferred Neighborhood: e.g., Flatiron (NoMad), Tribeca, Hudson Yards, East Village, Grand Central.
+    - Estimated or Stated Budget: e.g., "$15k–$25k/month, flexible," "$50k/month max, firm cap."
+    - Must-Haves: e.g., operable windows, pet-friendly, freight elevator, LEED-certified, ADA-compliant.
+    - Nice-to-Haves: e.g., onsite gym, exposed brick, corner office, terrace access.
+    - Space Size: Small (1,000–2,500 RSF), Medium (2,500–5,000 RSF), Large (5,000+ RSF).
+    - Preferred Lease Term: Short-term (1–3 years), Medium (3–7 years), Long-term (8–15 years).
+  - Moving Timeline: Immediate (within 30 days), Short-term (3–6 months), Long-term (9–18 months), Exploratory (no fixed timeline). Examples: "Lease ends in 45 days," "Looking for Q3 2025."
+  - Pain Points: e.g., "Unreliable HVAC," "No parking," "Noisy neighbors," "Current space too cramped."
+  - Urgency Score: A derived metric (1–10) based on shared info (e.g., 8 for "Need a space in 30 days," 3 for "Just exploring options").
+  - Outcome: A short description of where things stand (e.g., "Ongoing talks").
+  - Tenant Personality: e.g., Enthusiastic, Skeptical, Detail-obsessed, Price-sensitive.
+
+Implementing Tenant Data:
+- Include some details naturally in the email thread, reflecting real-world dynamics.
+- Tenants may withhold information or shift preferences (e.g., budget increases from $20k to $25k, timeline shortens). Example: "We said $20k, but could stretch to $25k for the right spot."
+
+Interaction Dynamics:
+- Broker Tactics: e.g., Probing: "What’s your current setup like?", Incentives: "Landlord’s offering a free month if you sign by Nov 1.", Urgency: "This space won’t last—rents are spiking in Chelsea."
+- Tenant Reactions: e.g., Decisive: "We need to see it tomorrow.", Hesitant: "Still weighing options—can you send more listings?"
+- Friction Points: e.g., Budget disputes ("$60k’s too high"), timeline mismatches ("We’re not ready for 6 months"), approval delays ("Board needs to sign off").
+- Outcome Variability: Positive (lease signed, tour booked), Neutral (ongoing talks, more options requested), Negative (tenant ghosts, declines due to cost, chooses competitor).
+
+Variety and Realism:
+- Tenant Personalities: Vary between Enthusiastic ("This looks perfect!"), Skeptical ("Not sure it’s worth $50k"), Detail-obsessed ("Send floor plans"), Price-sensitive ("Need it under $30k").
+- Broker Approaches: Alternate between Aggressive ("Sign now or lose it"), Consultative ("Let’s find what fits"), Data-driven ("Rents here average $55k—great deal").
+- External Factors: e.g., "Market’s hot in Hudson Yards," "Snow delayed our last tour," "Their lease expires in March."
+- Time Gaps: e.g., Tenant replies after 3 days; broker follows up a week later.
+
+Uniqueness and Diversity:
+- Each email chain must represent a unique context, defined by a distinct combination of:
+  - Tenant profile (industry, company size, growth stage, decision-maker role, personality).
+  - Property preferences (type, neighborhood, budget, must-haves, nice-to-haves, space size, lease term).
+  - Pain points, timeline, urgency, negotiation dynamics (friction points, broker tactics).
+  - Outcome (positive, neutral, negative).
+- Individual data points (e.g., 5,000 sqft space, $50k budget) may repeat across chains, but the overall context must be unique. For example, two tenants needing 5,000 sqft are acceptable if they differ in industry (e.g., tech vs. nonprofit), pain points (e.g., noisy neighbors vs. outdated HVAC), timeline (e.g., immediate vs. exploratory), personality (e.g., decisive vs. skeptical), and negotiation arc (e.g., budget dispute vs. approval delay).
+- Ensure diversity in industries (e.g., tech, legal, nonprofit, retail, healthcare, finance), company sizes (micro to enterprise), tenant personalities (e.g., enthusiastic, price-sensitive), and negotiation scenarios to reflect Manhattan’s real estate market.
+- Strictly avoid reusing tenant names, company names, or email addresses. Do not generate names or companies that resemble or partially match the used list (e.g., avoid 'Urban Horizon' if 'Urban Horizons' is used).
+- Avoid repeating or resembling contexts from previous chains, including combinations of industry, company size, neighborhood, pain points, timeline, personality, or outcome.
+- Used Names to Avoid (updated per iteration):
+  - Names: [DYNAMIC_LIST_NAMES]
+- Used Companies to Avoid (updated per iteration):
+  - Companies: [DYNAMIC_LIST_COMPANIES]
+- Used Contexts to Avoid (updated per iteration):
+  - Contexts: [DYNAMIC_LIST_CONTEXTS]
+    - Format for each context: Industry: [industry], Company Size: [size], Neighborhood: [neighborhood], Pain Points: [pain_points], Timeline: [timeline], Personality: [personality], Outcome: [outcome]
+
+Example 1: Scaling Tech Startup (Positive Outcome - Tour Scheduled)
+(31-10-2025, 9:14 AM)
+From: Alex Carter <alex.carter@pinnaclerealty.com>
+To: Mia Chen <mia@nexlify.com>
+Subject: Office Space for Nexlify’s Growth
+Hi Mia,
+I’m Alex Carter with Pinnacle Realty. Congrats on Nexlify’s Series B funding—I saw the news! With that growth, are you exploring new office spaces in Manhattan to accommodate your expanding team?
+Best,
+Alex Carter
+Commercial Office Specialist | Pinnacle Realty
+📞 (917) 555-2801
+
+(01-11-2025, 2:37 PM)
+From: Mia Chen <mia@nexlify.com>
+To: Alex Carter <alex.carter@pinnaclerealty.com>
+Subject: Re: Office Space for Nexlify’s Growth
+Hey Alex, thx! Yeah, we’re bursting out of our 5k sqft in Dumbo. Need 15k sqft in Flatiron or NoMad, $50k/month max. Must have fiber internet and bike storage—team’s young and active. Need to move ASAP, lease ends in 60 days.
+— Mia
+
+(02-11-2025, 10:22 AM)
+From: Alex Carter <alex.carter@pinnaclerealty.com>
+To: Mia Chen <mia@nexlify.com>
+Subject: Re: Office Space for Nexlify’s Growth
+Hi Mia,
+Perfect timing—I’ve got a 16k sqft loft in Flatiron with fiber, bike racks, and a breakout area. It’s listed at $52k/month, but the landlord’s offering a free month if you sign by Nov 15.
+The market’s hot in Flatiron, so it won’t last. Can you tour tomorrow at 2pm?
+Best,
+Alex
+
+(03-11-2025, 9:05 AM)
+From: Mia Chen <mia@nexlify.com>
+To: Alex Carter <alex.carter@pinnaclerealty.com>
+Subject: Re: Office Space for Nexlify’s Growth
+Looks promising, but $52k is over our $50k cap. Can you negotiate it down? Need to see it ASAP—tomorrow works.
+— Mia
+
+(03-11-2025, 11:30 AM)
+From: Alex Carter <alex.carter@pinnaclerealty.com>
+To: Mia Chen <mia@nexlify.com>
+Subject: Re: Office Space for Nexlify’s Growth
+Mia, I’ll push the landlord to meet your $50k budget. Let’s meet at 2pm tomorrow—20 W 23rd St. I’ll confirm the bike racks (they’re in the basement). See you then!
+Best,
+Alex
+
+(04-11-2025, 8:45 AM)
+From: Mia Chen <mia@nexlify.com>
+To: Alex Carter <alex.carter@pinnaclerealty.com>
+Subject: Re: Office Space for Nexlify’s Growth
+Great, see you at 2pm. Bringing our COO too.
+— Mia
+
+
+{
+  "Tenant Representative Details": {
+    "First Name": "Mia",
+    "Last Name": "Chen",
+    "Email": "mia@nexlify.com",
+    "Phone": null
+  },
+  "Company Details": {
+    "Company Name": "Nexlify",
+    "Industry": "Tech",
+    "Company Size": "Medium (75-250 employees)",
+    "Growth Stage": "Scaling",
+    "Current Neighborhood": "Dumbo"
+  },
+  "First Interaction": "31-10-2025",
+  "Last Interaction": "04-11-2025",
+  "Decision-Maker Role": null,
+  "Property Preferences": {
+    "Property Type": "Office",
+    "Preferred Neighborhood": "Flatiron, NoMad",
+    "Estimated or Stated Budget": "$50k/month",
+    "Must-Haves": ["Fiber internet", "Bike storage"],
+    "Nice-to-Haves": [],
+    "Space Size": "15,000 sqft",
+    "Preferred Lease Term": null
+  },
+  "Moving Timeline": "Immediate (30 days)",
+  "Pain Points": ["Outgrowing current space"],
+  "Urgency Score": 9,
+  "Outcome": "Tour scheduled"
+}
+Output Format:
+- Respond with a single, valid JSON object containing:
+  - "email_chain": A list of 2–8 email objects, each with "timestamp" (DD-MM-YYYY HH:MM AM/PM), "from", "to", "subject", and "body".
+  - "tenant_profile": A dictionary with all required fields (Tenant Representative Details, Company Details, etc., including Tenant Personality).
+- Ensure the JSON is properly formatted with no syntax errors (e.g., correct quotes, commas, brackets).
+- Use double quotes for all strings, ensure no trailing commas, and validate that the output is parseable as JSON.
+- Do not include any text outside the JSON object (no explanations, comments, markdown, or backticks).
+- Example valid JSON structure:
+  {
+    "email_chain": [
+      {
+        "timestamp": "31-10-2025 09:00 AM",
+        "from": "Broker Name <broker@realty.com>",
+        "to": "Tenant Name <tenant@company.com>",
+        "subject": "Office Space Inquiry",
+        "body": "Dear Tenant,\n\nI’m reaching out to discuss your office needs...\n\nBest,\nBroker"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {"First Name": "Tenant", "Last Name": "Name", "Email": "tenant@company.com", "Phone": null},
+      "Company Details": {"Company Name": "Company", "Industry": "Tech", "Company Size": "Small", "Growth Stage": "Startup", "Current Neighborhood": "SoHo"},
+      "First Interaction": "31-10-2025",
+      "Last Interaction": "31-10-2025",
+      "Decision-Maker Role": "Founder",
+      "Property Preferences": {"Property Type": "Office", "Preferred Neighborhood": "Flatiron", "Estimated or Stated Budget": "$20k/month", "Must-Haves": ["High-speed internet"], "Nice-to-Haves": ["Gym"], "Space Size": "2,500 sqft", "Preferred Lease Term": "3 years"},
+      "Moving Timeline": "Short-term",
+      "Pain Points": ["Small current space"],
+      "Urgency Score": 5,
+      "Outcome": "Initial outreach",
+      "Tenant Personality": "Skeptical"
+    }
+  }
+
+FINAL INSTRUCTION: Generate one email chain for a unique tenant with a distinct context from all previously generated chains. Avoid the listed used names, companies, and contexts, including any similar variations. Ensure a cohesive narrative with evolving dynamics, at least one friction point, and rich tenant details for NEE insights. Include timestamps (DD-MM-YYYY HH:MM AM/PM) and reflect the tenant’s personality, the broker’s adaptability, and Manhattan’s real estate complexities. The chain should have 2–8 emails, with varied outcomes (positive, neutral, negative). Output only a valid JSON object, with no additional text.
