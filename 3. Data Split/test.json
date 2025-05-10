@@ -1,0 +1,2821 @@
+[
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Broker Jane Smith <jane.smith@urbanlease.com>",
+        "to": "Candidate Luke Morgan <luke.morgan@healthwell.org>",
+        "subject": "Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Luke,\n\nI\u2019m Jane from Urban Lease. I came across HealthWell\u2019s growth plans and thought Midtown East might be a good fit for your new headquarters. Are you currently exploring office options in that vicinity?\n\nLooking forward to your thoughts.\nBest,\nJane"
+      },
+      {
+        "timestamp": "07-11-2025 02:30 PM",
+        "from": "Luke Morgan <luke.morgan@healthwell.org>",
+        "to": "Jane Smith <jane.smith@urbanlease.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Jane,\n\nThanks for reaching out. We\u2019re considering expanding, but need a space that\u2019s more specialized\u2014ideally a bit larger, around 4,000 sqft. Our current lease ends in about 8 months, so we\u2019re starting to plan but not in a rush yet.\nNot sure about neighborhood specifics\u2014what options do you have?\nCheers,\nLuke"
+      },
+      {
+        "timestamp": "09-11-2025 11:45 AM",
+        "from": "Jane Smith <jane.smith@urbanlease.com>",
+        "to": "Luke Morgan <luke.morgan@healthwell.org>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Luke,\n\nThanks for the update. I\u2019ve pulled a few listings that might suit\u2014there\u2019s a 4,200 sqft space at 45th & 3rd with high-end HVAC, natural light, and some flexibility on build-out. The rent is around $65 per sqft, so roughly $273K annual.\nWould you like to schedule a tour or see more options?\nBest,\nJane"
+      },
+      {
+        "timestamp": "10-11-2025 09:20 AM",
+        "from": "Luke Morgan <luke.morgan@healthwell.org>",
+        "to": "Jane Smith <jane.smith@urbanlease.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Jane,\n\nThat space sounds interesting, but $65 per sqft is a bit above our current budget\u2014our max is about $60. Also, we need quick access to hospitals and clinics nearby. Can you negotiate the rent or find a similar place closer to $60?\nThanks,\nLuke"
+      },
+      {
+        "timestamp": "11-11-2025 04:55 PM",
+        "from": "Jane Smith <jane.smith@urbanlease.com>",
+        "to": "Luke Morgan <luke.morgan@healthwell.org>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Luke,\n\nI understand budget constraints. I\u2019ll check if the landlord might offer a concession or reduce the rent slightly. Meanwhile, I have a listing at 46th & 2nd, about 4,000 sqft, with a cap of $58 per sqft, which might fit your needs. Location is excellent for medical proximity.\nWould you be available for a quick tour tomorrow or early next week?\nBest,\nJane"
+      },
+      {
+        "timestamp": "12-11-2025 08:00 AM",
+        "from": "Luke Morgan <luke.morgan@healthwell.org>",
+        "to": "Jane Smith <jane.smith@urbanlease.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Jane,\n\nAppreciate the quick follow-up. Tomorrow works for us\u2014let\u2019s do the tour at 10 AM. Also, we\u2019d need the space ready in about 6 months, so timing is tight.\nPlease send over the lease details in advance.\nThanks,\nLuke"
+      },
+      {
+        "timestamp": "13-11-2025 09:30 AM",
+        "from": "Jane Smith <jane.smith@urbanlease.com>",
+        "to": "Luke Morgan <luke.morgan@healthwell.org>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Luke,\n\nConfirmed for 10 AM tomorrow at 46th & 2nd. I\u2019ll send the lease draft and building details shortly. The landlord is flexible on move-in dates, so we can coordinate to meet your 6-month timeline.\nLooking forward to meeting.\nBest,\nJane"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "luke",
+        "Last Name": "morgan",
+        "Email": "luke.morgan@healthwell.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "healthwell",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "medium (75-250 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "13-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$60k-$70k",
+        "Must-Haves": [
+          "hvac",
+          "natural light",
+          "proximity to healthcare"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "steady (6\u201312 months)",
+      "Pain Points": [
+        "current lease ending soon",
+        "need proximity to medical facilities"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Julia Conrad <julia.conrad@urbanhype.co>",
+        "to": "Michael Torres <michael.torres@greenlightgroup.org>",
+        "subject": "Potential Office Space in Chelsea",
+        "body": "Hi Michael,\n\nI'm Julia Conrad from Urban Hype Realty. I came across Green Light Group and thought you might be interested in exploring some prime office options in Chelsea. Are you currently looking to expand or relocate?\n\nLet me know your needs.\n\nBest,\nJulia"
+      },
+      {
+        "timestamp": "05-11-2025 02:50 PM",
+        "from": "Michael Torres <michael.torres@greenlightgroup.org>",
+        "to": "Julia Conrad <julia.conrad@urbanhype.co>",
+        "subject": "Re: Potential Office Space in Chelsea",
+        "body": "Hi Julia,\n\nThanks for reaching out. We\u2019re actually considering a move within the next 4-6 months. Our current space is about 3,000 sqft, and we\u2019d prefer something around 4,000 sqft in Chelsea or nearby neighborhoods. Budget-wise, we are flexible up to $45k/month but want to avoid excessive renovations.\n\nAppreciate any suggestions.\n\nThanks,\nMichael"
+      },
+      {
+        "timestamp": "06-11-2025 09:10 AM",
+        "from": "Julia Conrad <julia.conrad@urbanhype.co>",
+        "to": "Michael Torres <michael.torres@greenlightgroup.org>",
+        "subject": "Re: Potential Office Space in Chelsea",
+        "body": "Good morning Michael,\n\nThanks for the details. I\u2019ve identified a couple of spaces that might suit your needs, including a 4,200 sqft loft at 345 W 18th St with a modern layout and minimal tenants\u2019 improvements needed. The rent is listed at $43k/month. The landlord is somewhat flexible if you can move quickly.\n\nWould you like to schedule a tour for later this week?\n\nBest regards,\nJulia"
+      },
+      {
+        "timestamp": "06-11-2025 04:20 PM",
+        "from": "Michael Torres <michael.torres@greenlightgroup.org>",
+        "to": "Julia Conrad <julia.conrad@urbanhype.co>",
+        "subject": "Re: Potential Office Space in Chelsea",
+        "body": "Hi Julia,\n\nSounds promising. Could we see it Friday at 11am? Also, do you have any info on parking options or nearby transit? That\u2019s pretty critical for us.\n\nThanks,\nMichael"
+      },
+      {
+        "timestamp": "07-11-2025 08:55 AM",
+        "from": "Julia Conrad <julia.conrad@urbanhype.co>",
+        "to": "Michael Torres <michael.torres@greenlightgroup.org>",
+        "subject": "Re: Potential Office Space in Chelsea",
+        "body": "Morning Michael,\n\nConfirmed for Friday at 11am. Parking is limited on-site, but there\u2019s a nearby public garage that offers monthly passes. The building is a short walk to multiple subway lines, including the C/E trains.\n\nI\u2019ll send over the lease details ahead of the tour. Looking forward to showing you around.\n\nBest,\nJulia"
+      },
+      {
+        "timestamp": "07-11-2025 03:45 PM",
+        "from": "Michael Torres <michael.torres@greenlightgroup.org>",
+        "to": "Julia Conrad <julia.conrad@urbanhype.co>",
+        "subject": "Re: Potential Office Space in Chelsea",
+        "body": "Thanks, Julia. We\u2019re interested and will see the space Friday. Just a heads-up, we\u2019re slightly concerned about the renovation timeline since we\u2019re aiming to move in by mid-Jan. Can you confirm if the landlord is open to a quicker move-in?\n\nAppreciate it.\n\nRegards,\nMichael"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "michael",
+        "Last Name": "torres",
+        "Email": "michael.torres@greenlightgroup.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "green light group",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "07-11-2025",
+      "Decision-Maker Role": "facilities",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "public transit access",
+          "minimal renovations",
+          "parking"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited parking near current office",
+        "reluctance for lengthy renovations"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "15-11-2025 10:15 AM",
+        "from": "Broker Jane Smith <jane.smith@urbanspaces.com>",
+        "to": "Daniel Park <daniel.park@medivibe.org>",
+        "subject": "Healthcare Office Space in Midtown East",
+        "body": "Hi Daniel,\n\nI hope this message finds you well. I came across Medivibe's recent expansion plans and thought you might be interested in some prime office spaces in Midtown East. We have a few flexible options that could suit your needs.\n\nLet me know if you'd like to schedule a quick call or a tour.\n\nBest regards,\nJane Smith\nSenior Commercial Broker | Urban Spaces\n(212) 555-0148"
+      },
+      {
+        "timestamp": "18-11-2025 02:50 PM",
+        "from": "Daniel Park <daniel.park@medivibe.org>",
+        "to": "Broker Jane Smith <jane.smith@urbanspaces.com>",
+        "subject": "Re: Healthcare Office Space in Midtown East",
+        "body": "Hi Jane,\n\nThanks for reaching out. We\u2019re actually in the middle of evaluating our options; our current lease ends next year, but we\u2019re not in a rush. We're looking for about 3,500 sqft ideally, with good access to public transit and a patient-friendly environment.\n\nBudget-wise, we\u2019re aiming for around $45k/month, but flexible if the space is perfect.\n\nAppreciate any listings you can send.\n\nCheers,\nDaniel"
+      },
+      {
+        "timestamp": "19-11-2025 09:30 AM",
+        "from": "Broker Jane Smith <jane.smith@urbanspaces.com>",
+        "to": "Daniel Park <daniel.park@medivibe.org>",
+        "subject": "Re: Healthcare Office Space in Midtown East",
+        "body": "Hi Daniel,\n\nThanks for the details. I\u2019ve identified a couple of options that match your criteria. One is a 3,600 sqft space at 45th St, recently renovated, with excellent transit access and a welcoming lobby, listed at $48k/month.\n\nWould you be available for a quick call today to discuss? I can also send over some photos and floor plans.\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "19-11-2025 04:00 PM",
+        "from": "Daniel Park <daniel.park@medivibe.org>",
+        "to": "Broker Jane Smith <jane.smith@urbanspaces.com>",
+        "subject": "Re: Healthcare Office Space in Midtown East",
+        "body": "Hi Jane,\n\nSounds good. I\u2019m free at 5 pm today for a quick call. Also, can you tell me if the landlord is open to some flexible lease terms, maybe 2 years with an option to extend?\n\nThanks,\nDaniel"
+      },
+      {
+        "timestamp": "20-11-2025 09:15 AM",
+        "from": "Broker Jane Smith <jane.smith@urbanspaces.com>",
+        "to": "Daniel Park <daniel.park@medivibe.org>",
+        "subject": "Re: Healthcare Office Space in Midtown East",
+        "body": "Hi Daniel,\n\nThanks for your time yesterday. I\u2019ve confirmed with the landlord\u2014they are open to a 2-year lease with an extension option, and possibly some tenant improvements if needed.\n\nI\u2019ll arrange a tour for tomorrow at 11 am. Let me know if that works or if you need any additional info beforehand.\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "21-11-2025 08:45 AM",
+        "from": "Daniel Park <daniel.park@medivibe.org>",
+        "to": "Broker Jane Smith <jane.smith@urbanspaces.com>",
+        "subject": "Re: Healthcare Office Space in Midtown East",
+        "body": "Hi Jane,\n\n11 am tomorrow works perfect. Looking forward to seeing the space. Also, how\u2019s the parking situation nearby? We\u2019d prefer to have some options for staff.\n\nThanks,\nDaniel"
+      },
+      {
+        "timestamp": "22-11-2025 03:20 PM",
+        "from": "Broker Jane Smith <jane.smith@urbanspaces.com>",
+        "to": "Daniel Park <daniel.park@medivibe.org>",
+        "subject": "Re: Healthcare Office Space in Midtown East",
+        "body": "Hi Daniel,\n\nGreat, see you tomorrow at 11 am. The space has good street parking options nearby, and there\u2019s a municipal parking garage within a block. I\u2019ll send the address and some additional info today.\n\nLooking forward to your feedback after the tour.\n\nBest,\nJane"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "daniel",
+        "Last Name": "park",
+        "Email": "daniel.park@medivibe.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "medivibe",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "15-11-2025",
+      "Last Interaction": "22-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "public transit access",
+          "patient-friendly environment"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "2500-4999 sf",
+        "Preferred Lease Term": "2 year"
+      },
+      "Moving Timeline": "horizon (12+ months)",
+      "Pain Points": [
+        "need accessible location",
+        "current space too small"
+      ],
+      "Urgency Score": "5",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "to": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "subject": "Flexible Office Space Options in Chelsea",
+        "body": "Hi Liam,\n\nHope you're well. I came across Future Innovations' recent expansion plans. Are you still exploring office options in Manhattan, specifically flexible spaces in Chelsea? We have some new listings that might fit your needs.\n\nBest,\nBrooke"
+      },
+      {
+        "timestamp": "06-11-2025 02:50 PM",
+        "from": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "to": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "subject": "Re: Flexible Office Space Options in Chelsea",
+        "body": "Hi Brooke,\n\nThanks for reaching out. Yes, we\u2019re looking for a flexible space, ideally about 4,000 sqft, in Chelsea. Budget\u2019s around $45k/month, but there's some room if the location or amenities are right. No fixed timeline\u2014probably within the next 3-6 months.\n\nAppreciate any options you have.\n\nRegards,\nLiam"
+      },
+      {
+        "timestamp": "07-11-2025 09:30 AM",
+        "from": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "to": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "subject": "Re: Flexible Office Space Options in Chelsea",
+        "body": "Hi Liam,\n\nThanks for the details. I have a 4,200 sqft co-working-flex hybrid in the heart of Chelsea, with high-speed internet, 24/7 access, and some private offices. Listed at $43k/month\u2014owner is open to a 5-year lease. Would you be available early next week for a tour?\n\nLet me know what works.\n\nBest,\nBrooke"
+      },
+      {
+        "timestamp": "07-11-2025 11:15 AM",
+        "from": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "to": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "subject": "Re: Flexible Office Space Options in Chelsea",
+        "body": "Hi Brooke,\n\nSounds promising. Could you send over floor plans and more details? Would like to review before scheduling a tour. Also, slight concern about the price\u2014can the landlord offer any concessions or shorter lease terms?\n\nThanks,\nLiam"
+      },
+      {
+        "timestamp": "08-11-2025 03:45 PM",
+        "from": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "to": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "subject": "Re: Flexible Office Space Options in Chelsea",
+        "body": "Hi Liam,\n\nAbsolutely, I\u2019ll send the floor plans and detailed specs today. Regarding concessions, the landlord is willing to offer one month free if you sign within 60 days and is open to a 3-year lease. Shorter terms might be negotiable depending on your commitment.\n\nWould you like to schedule the tour for tomorrow or early next week?\n\nBest,\nBrooke"
+      },
+      {
+        "timestamp": "09-11-2025 10:00 AM",
+        "from": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "to": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "subject": "Re: Flexible Office Space Options in Chelsea",
+        "body": "Hi Brooke,\n\nThanks for the quick follow-up. Please send the floor plans. We\u2019re leaning toward a tour early next week\u2014Monday or Tuesday morning if possible. Would prefer to see it before making any decisions.\n\nAppreciate the flexibility.\n\nLiam"
+      },
+      {
+        "timestamp": "10-11-2025 08:15 AM",
+        "from": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "to": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "subject": "Re: Flexible Office Space Options in Chelsea",
+        "body": "Hi Liam,\n\nGreat, I\u2019ve scheduled your tour for Monday at 10 AM. Floor plans are attached. The space includes new HVAC, a shared conference room, and outdoor terrace access. Looking forward to showing it to you.\n\nLet me know if you need anything else beforehand.\n\nBest,\nBrooke"
+      },
+      {
+        "timestamp": "10-11-2025 09:20 AM",
+        "from": "Liam Moreno <liam.moreno@futureinnovations.org>",
+        "to": "Brooke Adams <brooke.adams@summitproperties.com>",
+        "subject": "Re: Flexible Office Space Options in Chelsea",
+        "body": "Hi Brooke,\n\nThanks, see you Monday. We\u2019ll assess then and get back shortly.\n\nCheers,\nLiam"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "liam",
+        "Last Name": "moreno",
+        "Email": "liam.moreno@futureinnovations.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "future innovations",
+        "Industry": [
+          "tech"
+        ],
+        "Company Size": "medium (75-250 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "10-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "24/7 access",
+          "reliable internet"
+        ],
+        "Nice-to-Haves": [
+          "outdoor space",
+          "private offices"
+        ],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited flexible options in current space",
+        "need for adaptable lease terms"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "15-11-2025 10:15 AM",
+        "from": "Sarah Novak <sarah.novak@HeritageLegal.com>",
+        "to": "Jamie Collins <jamie.collins@cityharborre.com>",
+        "subject": "Legal Firm Seeking Downtown Office Space",
+        "body": "Hello Jamie,\n\nI'm Sarah Novak, COO at Heritage Legal. We're considering relocating our NYC office and are interested in spaces in the Financial District. Our team is around 50, prefers private offices, and needs a reliable internet setup. Budget is around $40k/month, with a lease term of 5-7 years. Would you have any suitable listings?\n\nThanks,\nSarah"
+      },
+      {
+        "timestamp": "16-11-2025 02:50 PM",
+        "from": "Jamie Collins <jamie.collins@cityharborre.com>",
+        "to": "Sarah Novak <sarah.novak@HeritageLegal.com>",
+        "subject": "Re: Legal Firm Seeking Downtown Office Space",
+        "body": "Hi Sarah,\n\nThanks for reaching out. I have a couple of options in the FiDi area: a 6,000 sqft office at 45 Wall Street with private suites, high-speed internet included, asking $38k/month. Also, a 5,500 sqft space at 60 Broad Street with similar features, slightly under budget at $36k.\n\nWould you like to schedule a tour this week?\n\nBest,\nJamie"
+      },
+      {
+        "timestamp": "17-11-2025 09:20 AM",
+        "from": "Sarah Novak <sarah.novak@HeritageLegal.com>",
+        "to": "Jamie Collins <jamie.collins@cityharborre.com>",
+        "subject": "Re: Re: Legal Firm Seeking Downtown Office Space",
+        "body": "Hi Jamie,\n\nThanks for the options. The 45 Wall Street listing sounds promising, but we need to ensure the space can be divided into private suites for confidentiality. Can you send over floor plans? Also, we\u2019d prefer to move in within 2 months.\n\nAppreciate your help.\n\nRegards,\nSarah"
+      },
+      {
+        "timestamp": "18-11-2025 11:10 AM",
+        "from": "Jamie Collins <jamie.collins@cityharborre.com>",
+        "to": "Sarah Novak <sarah.novak@HeritageLegal.com>",
+        "subject": "Re: Re: Re: Legal Firm Seeking Downtown Office Space",
+        "body": "Hi Sarah,\n\nAbsolutely, I\u2019ll send the detailed floor plans of 45 Wall Street today. The landlord is flexible on move-in date, so a 60-day window is feasible.\n\nAdditionally, there\u2019s a landlord offering a rent concession if you sign by the end of this month\u2014could be beneficial.\n\nLet me know if you'd like to set up a tour for tomorrow or later this week.\n\nBest,\nJamie"
+      },
+      {
+        "timestamp": "19-11-2025 03:05 PM",
+        "from": "Sarah Novak <sarah.novak@HeritageLegal.com>",
+        "to": "Jamie Collins <jamie.collins@cityharborre.com>",
+        "subject": "Re: Re: Re: Re: Legal Firm Seeking Downtown Office Space",
+        "body": "Hi Jamie,\n\nThanks for the quick reply. The floor plans look good, but the rent concession sounds interesting\u2014what\u2019s the exact amount? Also, our lawyers need a quiet environment, so noise levels are a concern. Can you confirm?\n\nWould prefer to tour on Friday. Please confirm.\n\nThanks,\nSarah"
+      },
+      {
+        "timestamp": "20-11-2025 09:45 AM",
+        "from": "Jamie Collins <jamie.collins@cityharborre.com>",
+        "to": "Sarah Novak <sarah.novak@HeritageLegal.com>",
+        "subject": "Re: Re: Re: Re: Re: Re: Legal Firm Seeking Downtown Office Space",
+        "body": "Hi Sarah,\n\nThe rent concession is equivalent to one month free on a 7-year lease, totaling approximately $36,000 in value.\n\nRegarding noise, the building is well-insulated, and the landlord has installed soundproofing in shared walls\u2014suitable for legal confidentiality.\n\nFriday works perfectly. I\u2019ll book the tour for 10 AM.\n\nLooking forward to showing you the space.\n\nBest,\nJamie"
+      },
+      {
+        "timestamp": "21-11-2025 08:30 AM",
+        "from": "Sarah Novak <sarah.novak@HeritageLegal.com>",
+        "to": "Jamie Collins <jamie.collins@cityharborre.com>",
+        "subject": "Re: Re: Re: Re: Re: Re: Re: Re: Legal Firm Seeking Downtown Office Space",
+        "body": "Hi Jamie,\n\nAppreciate the details. The space looks promising; I\u2019ll confirm with my team today. If all goes well, we\u2019re prepared to proceed quickly.\n\nSee you Friday at 10.\n\nThanks,\nSarah"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "sarah",
+        "Last Name": "novak",
+        "Email": "sarah.novak@heritagelegal.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "heritage legal",
+        "Industry": [
+          "legal"
+        ],
+        "Company Size": "medium (75-250 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "15-11-2025",
+      "Last Interaction": "21-11-2025",
+      "Decision-Maker Role": "executive",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "downtown"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "reliable internet",
+          "soundproofing",
+          "private spaces"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "6000 sqft",
+        "Preferred Lease Term": "5 year"
+      },
+      "Moving Timeline": "swift (0\u20132 months)",
+      "Pain Points": [
+        "need confidentiality and quiet environment",
+        "flexible move-in date"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "02-11-2025 10:15 AM",
+        "from": "Jamie Carter <jamie.carter@altura-realty.com>",
+        "to": "Liam Nguyen <liam.nguyen@greenhorizon.org>",
+        "subject": "Flexible Office Space in Chelsea for Green Horizon",
+        "body": "Hi Liam,\n\nI'm Jamie Carter from Altura Realty. I came across Green Horizon\u2019s mission\u2014impressive work! Noticing your team growing, I wanted to see if you're exploring new office spaces in Manhattan, specifically Chelsea. We have some flexible options that might fit your needs.\n\nLooking forward to connecting.\nBest,\nJamie"
+      },
+      {
+        "timestamp": "04-11-2025 04:45 PM",
+        "from": "Liam Nguyen <liam.nguyen@greenhorizon.org>",
+        "to": "Jamie Carter <jamie.carter@altura-realty.com>",
+        "subject": "Re: Flexible Office Space in Chelsea for Green Horizon",
+        "body": "Hey Jamie,\n\nThx for reaching out. Yeah, we\u2019re considering a new office, ideally around 3k sqft, in Chelsea or nearby. Budget\u2019s pretty tight\u2014around $20k/month max. We need a space with good natural light and a conference room. Timeline is a bit flexible but prefer to move within 4-6 months.\n\nCan you send some options?\n\u2014 Liam"
+      },
+      {
+        "timestamp": "05-11-2025 09:30 AM",
+        "from": "Jamie Carter <jamie.carter@altura-realty.com>",
+        "to": "Liam Nguyen <liam.nguyen@greenhorizon.org>",
+        "subject": "Re: Flexible Office Space in Chelsea for Green Horizon",
+        "body": "Hi Liam,\n\nThanks for the quick reply. I\u2019ve found a few listings that match your criteria\u2014one is a 3,200 sqft office at 567 W 20th St with plenty of sunlight, a small conference area, and it\u2019s listed at $19.5k/month. It\u2019s flexible on terms and available in 3 months.\n\nWould you like to schedule a tour this week?\nBest,\nJamie"
+      },
+      {
+        "timestamp": "06-11-2025 11:00 AM",
+        "from": "Liam Nguyen <liam.nguyen@greenhorizon.org>",
+        "to": "Jamie Carter <jamie.carter@altura-realty.com>",
+        "subject": "Re: Flexible Office Space in Chelsea for Green Horizon",
+        "body": "Hey Jamie,\n\nThat space sounds promising. We\u2019d need a slight rent reduction\u2014can you negotiate $18.5k? Also, our facilities manager wants to see the lease terms.\n\nLet\u2019s do a tour tomorrow at 10am?\n\u2014 Liam"
+      },
+      {
+        "timestamp": "07-11-2025 08:15 AM",
+        "from": "Jamie Carter <jamie.carter@altura-realty.com>",
+        "to": "Liam Nguyen <liam.nguyen@greenhorizon.org>",
+        "subject": "Re: Flexible Office Space in Chelsea for Green Horizon",
+        "body": "Hi Liam,\n\nI\u2019ll check with the landlord about the $18.5k offer and confirm the lease details. The space is still available, and the landlord\u2019s open to negotiations. I\u2019ve scheduled your tour for tomorrow at 10am at 567 W 20th St.\n\nLooking forward to showing you around.\nBest,\nJamie"
+      },
+      {
+        "timestamp": "07-11-2025 12:30 PM",
+        "from": "Liam Nguyen <liam.nguyen@greenhorizon.org>",
+        "to": "Jamie Carter <jamie.carter@altura-realty.com>",
+        "subject": "Re: Flexible Office Space in Chelsea for Green Horizon",
+        "body": "Great, see you at 10am tomorrow. Our facilities manager might have some questions about the lease length\u2014probably 3 years max.\n\u2014 Liam"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "liam",
+        "Last Name": "nguyen",
+        "Email": "liam.nguyen@greenhorizon.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "green horizon",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "04-11-2025",
+      "Last Interaction": "07-11-2025",
+      "Decision-Maker Role": "facilities",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$0k-$30k",
+        "Must-Haves": [
+          "natural light",
+          "conference room"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "2500-4999 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "budget constraints",
+        "limited current space"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "12-11-2025 10:15 AM",
+        "from": "Julia Kim <julia.kim@urbanlegacy.com>",
+        "to": "Michael Brennan <michael.brennan@pinnaclerealty.com>",
+        "subject": "Inquiry: Downtown Creative Space",
+        "body": "Hi Michael,\n\nI\u2019m Julia Kim, Facilities Director at Urban Legacy. We\u2019re considering expanding into Manhattan to host our creative studio. We're interested in a flexible, open-plan space up to 4,000 sqft in Downtown or Tribeca. Our ideal budget is around $45k/month, but we\u2019re somewhat flexible if the space warrants it.\n\nWould love to get some options and set up a tour soon.\n\nThanks,\nJulia"
+      },
+      {
+        "timestamp": "14-11-2025 2:10 PM",
+        "from": "Michael Brennan <michael.brennan@pinnaclerealty.com>",
+        "to": "Julia Kim <julia.kim@urbanlegacy.com>",
+        "subject": "Re: Inquiry: Downtown Creative Space",
+        "body": "Hi Julia,\n\nThanks for reaching out! I have a couple of listings that might fit your needs. There\u2019s a 3,800 sqft open loft in Tribeca listed at $48k/month, with high ceilings and exposed brick\u2014great for creative work.\n\nAlso, I\u2019ve just gotten access to a 4,200 sqft space in Downtown with flexible lease terms, priced at $50k. It\u2019s a bit above your initial budget but has some nice amenities like ample natural light and a private courtyard.\n\nWould you be available for a quick call tomorrow to discuss and schedule viewings?\n\nBest,\nMichael"
+      },
+      {
+        "timestamp": "15-11-2025 9:05 AM",
+        "from": "Julia Kim <julia.kim@urbanlegacy.com>",
+        "to": "Michael Brennan <michael.brennan@pinnaclerealty.com>",
+        "subject": "Re: Inquiry: Downtown Creative Space",
+        "body": "Hi Michael,\n\nThanks for the options. The Tribeca loft sounds promising, but we\u2019re a bit tight on budget. Is there any room for negotiation, especially if we commit quickly?\n\nAlso, we're aiming to move in by the end of December. The Downtown space sounds ideal, but I\u2019d need to see it this week.\n\nLet me know your availability for a tour.\n\nThanks,\nJulia"
+      },
+      {
+        "timestamp": "16-11-2025 4:30 PM",
+        "from": "Michael Brennan <michael.brennan@pinnaclerealty.com>",
+        "to": "Julia Kim <julia.kim@urbanlegacy.com>",
+        "subject": "Re: Inquiry: Downtown Creative Space",
+        "body": "Hi Julia,\n\nGood news! I can arrange a tour of the Downtown space tomorrow at 11am. I\u2019ll also talk to the landlord about the budget; there might be some flexibility if you\u2019re ready to make an offer.\n\nThe landlord is motivated, given the current market. If you\u2019re interested, I recommend we move swiftly.\n\nLooking forward to showing you the space.\n\nBest,\nMichael"
+      },
+      {
+        "timestamp": "17-11-2025 8:00 AM",
+        "from": "Julia Kim <julia.kim@urbanlegacy.com>",
+        "to": "Michael Brennan <michael.brennan@pinnaclerealty.com>",
+        "subject": "Re: Inquiry: Downtown Creative Space",
+        "body": "Hi Michael,\n\nThanks for the quick turnaround. Can\u2019t do tomorrow morning\u2014can we do 2pm instead?\n\nAlso, can you send me some floor plans and details on the lease terms? We want to ensure it\u2019s a good fit before scheduling a second visit.\n\nAppreciate your help.\n\nBest,\nJulia"
+      },
+      {
+        "timestamp": "17-11-2025 1:45 PM",
+        "from": "Michael Brennan <michael.brennan@pinnaclerealty.com>",
+        "to": "Julia Kim <julia.kim@urbanlegacy.com>",
+        "subject": "Re: Inquiry: Downtown Creative Space",
+        "body": "Hi Julia,\n\nConfirmed for 2pm today. I\u2019ll send over the floor plans and lease info now. The space includes high ceilings, lots of natural light, and flexible lease options\u2014up to 5 years.\n\nLooking forward to meeting you and showing the space.\n\nBest,\nMichael"
+      },
+      {
+        "timestamp": "17-11-2025 3:30 PM",
+        "from": "Julia Kim <julia.kim@urbanlegacy.com>",
+        "to": "Michael Brennan <michael.brennan@pinnaclerealty.com>",
+        "subject": "Re: Inquiry: Downtown Creative Space",
+        "body": "Thanks, Michael. See you at 2pm. I\u2019ll bring our design team and some questions about the lease terms.\n\nAppreciate your assistance.\n\nBest,\nJulia"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "julia",
+        "Last Name": "kim",
+        "Email": "julia.kim@urbanlegacy.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "urban legacy",
+        "Industry": [
+          "creative"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "early-stage",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "12-11-2025",
+      "Last Interaction": "17-11-2025",
+      "Decision-Maker Role": "facilities",
+      "Property Preferences": {
+        "Property Type": "flex-space",
+        "Preferred Neighborhood": [
+          "downtown"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "natural light",
+          "exposed brick",
+          "high ceilings"
+        ],
+        "Nice-to-Haves": [
+          "outdoor space",
+          "open-plan layout"
+        ],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "horizon (12+ months)",
+      "Pain Points": [
+        "limited flexible creative spaces in current location",
+        "need for inspiring environment"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Broker Jane Williams <jane.williams@tenantsource.com>",
+        "to": "Rebecca Lin <rebecca.lin@luxorhealth.org>",
+        "subject": "Healthcare Space in Midtown East?",
+        "body": "Hi Rebecca,\n\nI\u2019m Jane from TenantSource. I noticed Luxorhealth is expanding, and I wanted to see if you're exploring new office locations in Manhattan to support your growth. We have some options that might fit your needs.\n\nLooking forward to your thoughts.\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "07-11-2025 02:50 PM",
+        "from": "Rebecca Lin <rebecca.lin@luxorhealth.org>",
+        "to": "Jane Williams <jane.williams@tenantsource.com>",
+        "subject": "Re: Healthcare Space in Midtown East?",
+        "body": "Hi Jane,\n\nThanks for reaching out. We\u2019re currently in a 3k sqft space near Grand Central, but we\u2019re considering something bigger\u2014around 7-8k sqft. Budget is around $70k/month max. We need a space with good natural light and proximity to hospitals.\n\nNot in a rush, but want to start touring next week.\n\nBest,\nRebecca"
+      },
+      {
+        "timestamp": "08-11-2025 09:30 AM",
+        "from": "Jane Williams <jane.williams@tenantsource.com>",
+        "to": "Rebecca Lin <rebecca.lin@luxorhealth.org>",
+        "subject": "Re: Healthcare Space in Midtown East?",
+        "body": "Hi Rebecca,\n\nGreat, I have a 7.5k sqft suite on 42nd St, close to several hospitals, with large windows and plenty of natural light. It\u2019s listed at $68k/month. The landlord is flexible on lease terms and may include some tenant improvement allowances.\n\nWould you like to schedule a tour for this week?\n\nThanks,\nJane"
+      },
+      {
+        "timestamp": "08-11-2025 11:10 AM",
+        "from": "Rebecca Lin <rebecca.lin@luxorhealth.org>",
+        "to": "Jane Williams <jane.williams@tenantsource.com>",
+        "subject": "Re: Healthcare Space in Midtown East?",
+        "body": "Hi Jane,\n\nSounds promising. Can you send me floor plans and more details? Also, our facilities guy is out this week\u2014can we push for a tour on Friday afternoon?\n\nThx,\nRebecca"
+      },
+      {
+        "timestamp": "09-11-2025 04:45 PM",
+        "from": "Jane Williams <jane.williams@tenantsource.com>",
+        "to": "Rebecca Lin <rebecca.lin@luxorhealth.org>",
+        "subject": "Re: Healthcare Space in Midtown East?",
+        "body": "Hi Rebecca,\n\nAbsolutely, I\u2019ll send the floor plans today. Friday at 2 PM works perfectly. I\u2019ll confirm with the landlord and ensure all details are ready.\n\nLooking forward to showing you the space.\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "10-11-2025 03:15 PM",
+        "from": "Rebecca Lin <rebecca.lin@luxorhealth.org>",
+        "to": "Jane Williams <jane.williams@tenantsource.com>",
+        "subject": "Re: Healthcare Space in Midtown East?",
+        "body": "Hi Jane,\n\nReceived the plans, thanks. We\u2019re still reviewing, but I think the price might be a bit high for us\u2014$68k is close, but we\u2019re aiming for under $65k if possible. Also, our board needs to approve.\n\nCan you negotiate or check if there's wiggle room?\n\nBest,\nRebecca"
+      },
+      {
+        "timestamp": "11-11-2025 09:00 AM",
+        "from": "Jane Williams <jane.williams@tenantsource.com>",
+        "to": "Rebecca Lin <rebecca.lin@luxorhealth.org>",
+        "subject": "Re: Healthcare Space in Midtown East?",
+        "body": "Hi Rebecca,\n\nThanks for the update. I\u2019ll talk to the landlord about the rent and see if we can get closer to your target. Given the market, this space is in demand, but I\u2019ll do my best.\n\nMeanwhile, I\u2019ll confirm the tour for tomorrow at 2 PM.\n\nBest,\nJane"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "rebecca",
+        "Last Name": "lin",
+        "Email": "rebecca.lin@luxorhealth.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "luxorhealth",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "07-11-2025",
+      "Last Interaction": "11-11-2025",
+      "Decision-Maker Role": "facilities",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$60k-$70k",
+        "Must-Haves": [
+          "natural light",
+          "proximity to healthcare"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "7500-9999 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited natural light in current office",
+        "current space too small"
+      ],
+      "Urgency Score": "6",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "15-11-2025 10:15 AM",
+        "from": "Jordan Klein <jordan.klein@urbanretail.com>",
+        "to": "Amelia Rios <amelia.rios@crescentnonprofit.org>",
+        "subject": "Exploring Retail Space in Chelsea",
+        "body": "Hi Amelia,\n\nI\u2019m Jordan Klein from Urban Retail. I came across Crescent Nonprofit\u2019s recent community initiatives and thought you might be looking to expand your footprint. Are you currently exploring retail spaces around Chelsea?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "17-11-2025 03:45 PM",
+        "from": "Amelia Rios <amelia.rios@crescentnonprofit.org>",
+        "to": "Jordan Klein <jordan.klein@urbanretail.com>",
+        "subject": "Re: Exploring Retail Space in Chelsea",
+        "body": "Hi Jordan,\n\nThanks for reaching out. We\u2019re considering a small retail space to host workshops and outreach events. Budget-wise, we\u2019re aiming for under $28K/month. Main priority is easy access and visibility. Not in a rush, but would like to find something within the next 3-4 months.\n\nCheers,\nAmelia"
+      },
+      {
+        "timestamp": "18-11-2025 09:20 AM",
+        "from": "Jordan Klein <jordan.klein@urbanretail.com>",
+        "to": "Amelia Rios <amelia.rios@crescentnonprofit.org>",
+        "subject": "Re: Exploring Retail Space in Chelsea",
+        "body": "Hi Amelia,\n\nGreat, I have a listing at 345 W 18th St, 1,200 sqft, street-level with large display windows, priced at $27K/month. It\u2019s in a lively area with high foot traffic. Would you like to schedule a tour or see more options?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "19-11-2025 02:05 PM",
+        "from": "Amelia Rios <amelia.rios@crescentnonprofit.org>",
+        "to": "Jordan Klein <jordan.klein@urbanretail.com>",
+        "subject": "Re: Exploring Retail Space in Chelsea",
+        "body": "Hi Jordan,\n\nThanks for the info. The space sounds promising, but I noticed it\u2019s listed at full price. Is there any flexibility? Also, can you send over floor plans and details on the signage opportunities?\n\nThanks,\nAmelia"
+      },
+      {
+        "timestamp": "20-11-2025 11:40 AM",
+        "from": "Jordan Klein <jordan.klein@urbanretail.com>",
+        "to": "Amelia Rios <amelia.rios@crescentnonprofit.org>",
+        "subject": "Re: Exploring Retail Space in Chelsea",
+        "body": "Hi Amelia,\n\nI\u2019ve spoken to the landlord\u2014they\u2019re open to a slight discount if you sign a 3-year lease, bringing it down to $26K. Attached are the floor plans and signage options. Would you like to arrange a tour this week?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "21-11-2025 09:10 AM",
+        "from": "Amelia Rios <amelia.rios@crescentnonprofit.org>",
+        "to": "Jordan Klein <jordan.klein@urbanretail.com>",
+        "subject": "Re: Exploring Retail Space in Chelsea",
+        "body": "Hi Jordan,\n\nThat\u2019s helpful. We\u2019re interested\u2014can we see it tomorrow at 10 am? Also, our board needs to review the lease terms, so I may need a quick heads-up on any final negotiations.\n\nThanks,\nAmelia"
+      },
+      {
+        "timestamp": "22-11-2025 08:55 AM",
+        "from": "Jordan Klein <jordan.klein@urbanretail.com>",
+        "to": "Amelia Rios <amelia.rios@crescentnonprofit.org>",
+        "subject": "Re: Exploring Retail Space in Chelsea",
+        "body": "Hi Amelia,\n\nConfirmed for 10 am tomorrow. I\u2019ll meet you there with all the paperwork and floor plans. Looking forward to showing you the space!\n\nBest,\nJordan"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "amelia",
+        "Last Name": "rios",
+        "Email": "amelia.rios@crescentnonprofit.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "crescent nonprofit",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "early-stage",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "15-11-2025",
+      "Last Interaction": "22-11-2025",
+      "Decision-Maker Role": "operations",
+      "Property Preferences": {
+        "Property Type": "retail",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$30k-$40k",
+        "Must-Haves": [
+          "accessibility",
+          "visibility"
+        ],
+        "Nice-to-Haves": [
+          "signage"
+        ],
+        "Space Size": "1000-2499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "need for foot traffic",
+        "limited visibility at current location"
+      ],
+      "Urgency Score": "6",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "15-11-2025 09:15 AM",
+        "from": "Broker Jane Miller <jane.miller@cityscape.com>",
+        "to": "Decision Maker Alex Johnson <alex.johnson@greenviewconsulting.org>",
+        "subject": "Exploring Office Options in Midtown for Growing Nonprofit",
+        "body": "Dear Alex,\n\nI hope this message finds you well. I understand GreenView Consulting is considering expanding its office footprint in Manhattan. Given your nonprofit\u2019s mission-driven focus, I wanted to highlight a few properties that might align with your needs, especially near Grand Central.\n\nWould you be open to a quick call this week to discuss your priorities and see some tailored options?\n\nBest regards,\nJane Miller\nSenior Broker | Cityscape Realty\n\ud83d\udcde (212) 555-9823"
+      },
+      {
+        "timestamp": "17-11-2025 02:45 PM",
+        "from": "Decision Maker Alex Johnson <alex.johnson@greenviewconsulting.org>",
+        "to": "Broker Jane Miller <jane.miller@cityscape.com>",
+        "subject": "Re: Exploring Office Options in Midtown for Growing Nonprofit",
+        "body": "Hi Jane,\n\nThanks for reaching out. We\u2019re definitely looking to expand, ideally within walking distance of Grand Central. Our current space is cramped, and we need a place that can accommodate a 15-person team. Budget\u2019s around $40k/month, flexible for the right place.\n\nWould love to see some options\u2014are there spaces with good natural light and accessible meeting rooms?\n\nThx,\nAlex"
+      },
+      {
+        "timestamp": "19-11-2025 10:00 AM",
+        "from": "Broker Jane Miller <jane.miller@cityscape.com>",
+        "to": "Decision Maker Alex Johnson <alex.johnson@greenviewconsulting.org>",
+        "subject": "Re: Exploring Office Options in Midtown for Growing Nonprofit",
+        "body": "Hi Alex,\n\nGreat, I\u2019ve identified a few listings that might fit your needs. One is a 14,500 sqft space at 101 Park Ave with excellent natural light, flexible open plan, and a large conference area. Asking rent is $42k/month, but the landlord might consider a slight concession for a long-term lease.\n\nWould you be available for a tour this Thursday or Friday?\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "20-11-2025 11:20 AM",
+        "from": "Decision Maker Alex Johnson <alex.johnson@greenviewconsulting.org>",
+        "to": "Broker Jane Miller <jane.miller@cityscape.com>",
+        "subject": "Re: Exploring Office Options in Midtown for Growing Nonprofit",
+        "body": "Hi Jane,\n\nThanks for the options. The 101 Park Ave space looks promising, but we\u2019re concerned about the rent\u2014$42k is a bit above our budget. Also, we need the space to be ready to move in within 30 days.\n\nCan we negotiate the rent down, and do you think the landlord can accommodate a quick move?\n\nAppreciate your help,\nAlex"
+      },
+      {
+        "timestamp": "22-11-2025 04:00 PM",
+        "from": "Broker Jane Miller <jane.miller@cityscape.com>",
+        "to": "Decision Maker Alex Johnson <alex.johnson@greenviewconsulting.org>",
+        "subject": "Re: Exploring Office Options in Midtown for Growing Nonprofit",
+        "body": "Hi Alex,\n\nI\u2019ve spoken with the landlord, and they are open to reducing the rent to $39,500/month if you can move forward quickly. They also confirm the space is move-in ready within three weeks.\n\nWould you like to schedule a tour tomorrow morning to see it firsthand?\n\nBest regards,\nJane"
+      },
+      {
+        "timestamp": "23-11-2025 09:30 AM",
+        "from": "Decision Maker Alex Johnson <alex.johnson@greenviewconsulting.org>",
+        "to": "Broker Jane Miller <jane.miller@cityscape.com>",
+        "subject": "Re: Exploring Office Options in Midtown for Growing Nonprofit",
+        "body": "Hi Jane,\n\nYes, let\u2019s do the tour tomorrow at 10 AM. We\u2019re eager to see if this space fits our needs. Also, can you confirm that the lease terms include options for renewal?\n\nThanks,\nAlex"
+      },
+      {
+        "timestamp": "24-11-2025 08:55 AM",
+        "from": "Broker Jane Miller <jane.miller@cityscape.com>",
+        "to": "Decision Maker Alex Johnson <alex.johnson@greenviewconsulting.org>",
+        "subject": "Re: Exploring Office Options in Midtown for Growing Nonprofit",
+        "body": "Hi Alex,\n\nConfirmed for tomorrow at 10 AM at 101 Park Ave. The lease includes an option for renewal and a clause for renewal terms to be negotiated closer to expiration. Looking forward to showing you the space.\n\nSee you then!\n\nBest,\nJane"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "alex",
+        "Last Name": "johnson",
+        "Email": "alex.johnson@greenviewconsulting.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "greenview consulting",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "15-11-2025",
+      "Last Interaction": "24-11-2025",
+      "Decision-Maker Role": "founder",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "conference rooms",
+          "natural light",
+          "move-in ready"
+        ],
+        "Nice-to-Haves": [
+          "accessibility",
+          "flexible lease terms"
+        ],
+        "Space Size": "10000+ sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "swift (0\u20132 months)",
+      "Pain Points": [
+        "cramped current space",
+        "need for quick move-in"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Jordan Mills <jordan.mills@bridgeviewrealty.com>",
+        "to": "Lena Chang <lena.chang@greenwave.org>",
+        "subject": "Potential Leases for Eco-Friendly Office in Chelsea",
+        "body": "Hi Lena,\n\nI\u2019m Jordan Mills from Bridgeview Realty. I came across EcoSphere Solutions and noticed your focus on sustainable practices. We\u2019ve got some exciting office options in Chelsea that align with your eco-friendly values. Would you be open to discussing your space needs?\n\nLooking forward,\nJordan"
+      },
+      {
+        "timestamp": "07-11-2025 02:43 PM",
+        "from": "Lena Chang <lena.chang@greenwave.org>",
+        "to": "Jordan Mills <jordan.mills@bridgeviewrealty.com>",
+        "subject": "Re: Potential Leases for Eco-Friendly Office in Chelsea",
+        "body": "Hi Jordan,\n\nThanks for reaching out! We\u2019re currently in a transition phase, aiming for a space around 4,500 sqft with green certifications and accessible transportation. We\u2019re flexible on neighborhoods but prefer Chelsea or nearby areas. Budget-wise, we\u2019re looking at around $45k/month max.\n\nWe need to move within 4-6 months. Can you send some listings?\n\nBest,\nLena"
+      },
+      {
+        "timestamp": "08-11-2025 09:30 AM",
+        "from": "Jordan Mills <jordan.mills@bridgeviewrealty.com>",
+        "to": "Lena Chang <lena.chang@greenwave.org>",
+        "subject": "Re: Potential Leases for Eco-Friendly Office in Chelsea",
+        "body": "Good morning Lena,\n\nThanks for the details. I have a listing at 123 8th Ave, a 4,800 sqft office with LEED Gold cert, operable windows, and excellent transit access, listed at $46k/month. It\u2019s pre-certified, and the landlord supports sustainable features.\n\nWould you like to schedule a tour this week?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "08-11-2025 04:15 PM",
+        "from": "Lena Chang <lena.chang@greenwave.org>",
+        "to": "Jordan Mills <jordan.mills@bridgeviewrealty.com>",
+        "subject": "Re: Potential Leases for Eco-Friendly Office in Chelsea",
+        "body": "Hi Jordan,\n\nSounds promising. $46k is a bit over our max, but we\u2019re willing to stretch to $48k for the right space. Can you negotiate the rent? Also, we\u2019d like to see floor plans and review LEED docs. Availability for a tour Thursday or Friday?\n\nThanks,\nLena"
+      },
+      {
+        "timestamp": "09-11-2025 11:00 AM",
+        "from": "Jordan Mills <jordan.mills@bridgeviewrealty.com>",
+        "to": "Lena Chang <lena.chang@greenwave.org>",
+        "subject": "Re: Potential Leases for Eco-Friendly Office in Chelsea",
+        "body": "Hi Lena,\n\nI\u2019ll speak with the landlord about reducing the rent to $47.5k and will send you the floor plans and LEED documentation today. How does Friday at 11am work for a tour?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "09-11-2025 01:45 PM",
+        "from": "Lena Chang <lena.chang@greenwave.org>",
+        "to": "Jordan Mills <jordan.mills@bridgeviewrealty.com>",
+        "subject": "Re: Potential Leases for Eco-Friendly Office in Chelsea",
+        "body": "Jordan,\n\nFriday at 11 works. Please confirm the tour details. Also, we\u2019re considering a 5-year lease and might need some buildout assistance.\n\nThx,\nLena"
+      },
+      {
+        "timestamp": "10-11-2025 03:00 PM",
+        "from": "Jordan Mills <jordan.mills@bridgeviewrealty.com>",
+        "to": "Lena Chang <lena.chang@greenwave.org>",
+        "subject": "Re: Potential Leases for Eco-Friendly Office in Chelsea",
+        "body": "Lena,\n\nConfirmed for Friday at 11am at 123 8th Ave. I\u2019ll include the floor plans and LEED docs in my next email. I\u2019ll also check on the buildout options; the landlord is flexible for a 5-year lease.\n\nSee you then!\n\nBest,\nJordan"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "lena",
+        "Last Name": "chang",
+        "Email": "lena.chang@greenwave.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "ecosphere solutions",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "10-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "public transit access",
+          "leed-certified",
+          "operable windows"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "5 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "desire for sustainability features",
+        "current space too outdated"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Jordan Miles <jordan.miles@urbancore.com>",
+        "to": "Reed Turner <reed.turner@generationshealth.org>",
+        "subject": "Potential Office Space in Chelsea for Generations Health",
+        "body": "Hi Reed,\n\nI\u2019m Jordan Miles from UrbanCore Realty. I noticed Generations Health is expanding, and I wanted to see if you're currently exploring new office options in Manhattan. We have some interesting listings in Chelsea that might suit your needs.\n\nLooking forward to your thoughts.\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "07-11-2025 02:45 PM",
+        "from": "Reed Turner <reed.turner@generationshealth.org>",
+        "to": "Jordan Miles <jordan.miles@urbancore.com>",
+        "subject": "Re: Potential Office Space in Chelsea for Generations Health",
+        "body": "Hi Jordan,\n\nThanks for reaching out. We\u2019re actually considering relocating, but nothing is urgent yet. We\u2019re mainly looking for a space around 4,000 sqft, ideally with good natural light and accessible for patients since we\u2019re a healthcare org.\n\nOur budget is flexible but prefer to stay under $70k/month. No immediate move\u2014probably in 6-9 months.\n\nAppreciate the info.\n\nBest,\nReed"
+      },
+      {
+        "timestamp": "09-11-2025 11:10 AM",
+        "from": "Jordan Miles <jordan.miles@urbancore.com>",
+        "to": "Reed Turner <reed.turner@generationshealth.org>",
+        "subject": "Re: Potential Office Space in Chelsea for Generations Health",
+        "body": "Hi Reed,\n\nThanks for the update. I\u2019ve got a listing in Chelsea at 123 W 22nd St, about 4,200 sqft, with large windows and accessible entry points\u2014perfect for a healthcare setting. It\u2019s listed at $68k/month, but I believe there\u2019s room to negotiate.\n\nWould you like to schedule a tour sometime next week?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "10-11-2025 03:05 PM",
+        "from": "Reed Turner <reed.turner@generationshealth.org>",
+        "to": "Jordan Miles <jordan.miles@urbancore.com>",
+        "subject": "Re: Potential Office Space in Chelsea for Generations Health",
+        "body": "Hi Jordan,\n\nSounds promising. We\u2019d like to see it. How about Thursday at 10am?\n\nAlso, we\u2019re concerned about the lease terms\u2014prefer a 5-year deal with options. Can you confirm if that\u2019s possible?\n\nThx,\nReed"
+      },
+      {
+        "timestamp": "12-11-2025 09:00 AM",
+        "from": "Jordan Miles <jordan.miles@urbancore.com>",
+        "to": "Reed Turner <reed.turner@generationshealth.org>",
+        "subject": "Re: Potential Office Space in Chelsea for Generations Health",
+        "body": "Hi Reed,\n\nThursday at 10am works perfectly. I\u2019ll prepare the lease options for a 5-year term with renewal clauses.\n\nIn the meantime, I\u2019ll check if we can push the rent closer to $66k. The landlord is motivated but wants to see serious interest.\n\nSee you then.\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "13-11-2025 08:45 AM",
+        "from": "Reed Turner <reed.turner@generationshealth.org>",
+        "to": "Jordan Miles <jordan.miles@urbancore.com>",
+        "subject": "Re: Potential Office Space in Chelsea for Generations Health",
+        "body": "Hi Jordan,\n\nThanks for confirming. We\u2019re reviewing some other options but this one is high on our list.\n\nPlease send over the floor plans and any additional info before the tour.\n\nRegards,\nReed"
+      },
+      {
+        "timestamp": "15-11-2025 01:30 PM",
+        "from": "Jordan Miles <jordan.miles@urbancore.com>",
+        "to": "Reed Turner <reed.turner@generationshealth.org>",
+        "subject": "Re: Potential Office Space in Chelsea for Generations Health",
+        "body": "Hi Reed,\n\nAbsolutely, I\u2019ve attached the floor plans and recent photos. The space is in excellent condition, with a flexible layout suitable for healthcare offices.\n\nLooking forward to showing it to you on Thursday.\n\nBest,\nJordan"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "reed",
+        "Last Name": "turner",
+        "Email": "reed.turner@generationshealth.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "generations health",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "medium (75-250 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "15-11-2025",
+      "Decision-Maker Role": "executive",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$70k+",
+        "Must-Haves": [
+          "accessibility",
+          "natural light"
+        ],
+        "Nice-to-Haves": [
+          "public transit access"
+        ],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "5 year"
+      },
+      "Moving Timeline": "steady (6\u201312 months)",
+      "Pain Points": [
+        "accessibility for patients",
+        "flexible lease terms"
+      ],
+      "Urgency Score": "6",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Jamie Collins <jamie.collins@urbanrise.co>",
+        "to": "Liam Blake <liam.blake@healthaccess.org>",
+        "subject": "Healthcare Office Space Inquiry in Midtown",
+        "body": "Dear Liam,\n\nI hope this message finds you well. I came across your recent expansion plans and wanted to introduce a few prime office spaces in Midtown East that could suit HealthAccess\u2019s needs. Do you have some time next week to discuss how we might assist?\n\nBest regards,\nJamie Collins\nSenior Commercial Broker | Urban Rise Properties\n\ud83d\udcde (212) 555-7432"
+      },
+      {
+        "timestamp": "07-11-2025 03:02 PM",
+        "from": "Liam Blake <liam.blake@healthaccess.org>",
+        "to": "Jamie Collins <jamie.collins@urbanrise.co>",
+        "subject": "Re: Healthcare Office Space Inquiry in Midtown",
+        "body": "Hi Jamie,\n\nThanks for reaching out. We\u2019re actually looking to move before our lease ends in March, so timing\u2019s tight. Our current space in East Village is too cramped, and we need at least 10k sqft with good hospital-grade HVAC and easy access for patients.\nWould love to see some options that fit this profile.\n\nThx,\nLiam"
+      },
+      {
+        "timestamp": "09-11-2025 11:45 AM",
+        "from": "Jamie Collins <jamie.collins@urbanrise.co>",
+        "to": "Liam Blake <liam.blake@healthaccess.org>",
+        "subject": "Re: Healthcare Office Space Inquiry in Midtown",
+        "body": "Liam,\n\nThanks for the details. I\u2019ve identified a 12k sqft space on 3rd Ave near the hospital district that ticks most boxes\u2014GLEED-certified, wide corridors, and accessible entrances. It's listed at $65k/month, but the landlord might be flexible, given your timeline.\nWould you be available for a tour this Thursday at 2 pm?\n\nBest,\nJamie"
+      },
+      {
+        "timestamp": "09-11-2025 01:30 PM",
+        "from": "Liam Blake <liam.blake@healthaccess.org>",
+        "to": "Jamie Collins <jamie.collins@urbanrise.co>",
+        "subject": "Re: Healthcare Office Space Inquiry in Midtown",
+        "body": "Jamie,\n\nThe location sounds promising, but $65k is a bit above our $60k max. Is there room to negotiate? Also, we\u2019d need to see a floor plan and confirm if the HVAC system is modern enough.\nLet\u2019s aim for a tour Thursday at 2 pm if possible.\n\nThanks,\nLiam"
+      },
+      {
+        "timestamp": "10-11-2025 09:10 AM",
+        "from": "Jamie Collins <jamie.collins@urbanrise.co>",
+        "to": "Liam Blake <liam.blake@healthaccess.org>",
+        "subject": "Re: Healthcare Office Space Inquiry in Midtown",
+        "body": "Liam,\n\nGood news\u2014I've negotiated a slight reduction to $62k with the landlord, and they\u2019re providing the latest HVAC upgrade. Floor plans are ready, and I\u2019ll send them over today.\nCan you confirm if tomorrow at 2 pm still works for the tour?\n\nLooking forward to showing you the space.\nBest,\nJamie"
+      },
+      {
+        "timestamp": "10-11-2025 02:45 PM",
+        "from": "Liam Blake <liam.blake@healthaccess.org>",
+        "to": "Jamie Collins <jamie.collins@urbanrise.co>",
+        "subject": "Re: Healthcare Office Space Inquiry in Midtown",
+        "body": "Jamie,\n\nYes, tomorrow at 2 pm works. I\u2019ll bring our facilities manager for a quick walkthrough. Please send the floor plan beforehand.\nAppreciate your efforts.\n\nLiam"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "liam",
+        "Last Name": "blake",
+        "Email": "liam.blake@healthaccess.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "healthaccess",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "large (250-1000 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "10-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$60k-$70k",
+        "Must-Haves": [
+          "hvac",
+          "easy patient access",
+          "leed-certified",
+          "wide corridors"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "10000+ sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "outdated hvac system",
+        "current space too cramped"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Jordan Lee <jordan.lee@urbanvista.com>",
+        "to": "Samuel Grant <samuel.grant@artisana.org>",
+        "subject": "Potential Office Space in Chelsea for Artisana",
+        "body": "Hi Samuel,\n\nI\u2019m Jordan Lee from Urban Vista. I noticed Artisana is expanding and might be looking for new office space in Manhattan. Do you have some time this week to discuss your needs?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "07-11-2025 02:50 PM",
+        "from": "Samuel Grant <samuel.grant@artisana.org>",
+        "to": "Jordan Lee <jordan.lee@urbanvista.com>",
+        "subject": "Re: Potential Office Space in Chelsea for Artisana",
+        "body": "Hi Jordan,\n\nThanks for reaching out. We\u2019re considering moving to Chelsea but haven\u2019t finalized anything yet. Our current space is tight, and we\u2019re eyeing about 4,000 sqft. Budget-wise, we can go up to $70k/month, but ideally, less. We need to move within 3-4 months.\n\nBest,\nSamuel"
+      },
+      {
+        "timestamp": "08-11-2025 09:30 AM",
+        "from": "Jordan Lee <jordan.lee@urbanvista.com>",
+        "to": "Samuel Grant <samuel.grant@artisana.org>",
+        "subject": "Re: Potential Office Space in Chelsea for Artisana",
+        "body": "Morning Samuel,\n\nThanks for the details. I have a 4,200 sqft unit on W 19th St in Chelsea that might be a good fit. It\u2019s listed at $72k/month but has lease flexibility. Would you be available for a quick tour this week?\n\nLet me know what works.\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "08-11-2025 04:45 PM",
+        "from": "Samuel Grant <samuel.grant@artisana.org>",
+        "to": "Jordan Lee <jordan.lee@urbanvista.com>",
+        "subject": "Re: Potential Office Space in Chelsea for Artisana",
+        "body": "Hey Jordan,\n\nThis space sounds interesting, but $72k is a bit above our cap. Can you negotiate it down? Also, we prefer a lease term of 3-5 years and need early occupancy.\n\nThanks,\nSamuel"
+      },
+      {
+        "timestamp": "09-11-2025 11:00 AM",
+        "from": "Jordan Lee <jordan.lee@urbanvista.com>",
+        "to": "Samuel Grant <samuel.grant@artisana.org>",
+        "subject": "Re: Potential Office Space in Chelsea for Artisana",
+        "body": "Hi Samuel,\n\nI\u2019ll talk to the landlord about the budget and lease terms. There\u2019s some room to negotiate on the rent if you\u2019re ready to move quickly. How about a tour tomorrow at 11am?\n\nLooking forward to your confirmation.\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "09-11-2025 08:30 AM",
+        "from": "Samuel Grant <samuel.grant@artisana.org>",
+        "to": "Jordan Lee <jordan.lee@urbanvista.com>",
+        "subject": "Re: Potential Office Space in Chelsea for Artisana",
+        "body": "Morning Jordan,\n\nThanks for pushing. We can do the tour tomorrow at 11am. Our team will need to see it and assess the space.\n\nSee you then.\n\nBest,\nSamuel"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "samuel",
+        "Last Name": "grant",
+        "Email": "samuel.grant@artisana.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "artisana",
+        "Industry": [
+          "creative"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "09-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$70k+",
+        "Must-Haves": [],
+        "Nice-to-Haves": [],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "current space too cramped"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "02-10-2025 10:15 AM",
+        "from": "Jordan Lee <jordan.lee@cityscapecre.com>",
+        "to": "Evelyn Park <evelyn.park@brightfuture.org>",
+        "subject": "Exploring Retail Spaces in Chelsea - Opportunity for Bright Future",
+        "body": "Hi Evelyn,\n\nI'm Jordan Lee with Cityscape Commercial. I noticed Bright Future is expanding its outreach programs\u2014congratulations! Are you currently seeking retail spaces in Manhattan to support your community initiatives?\n\nBest regards,\nJordan"
+      },
+      {
+        "timestamp": "04-10-2025 03:22 PM",
+        "from": "Evelyn Park <evelyn.park@brightfuture.org>",
+        "to": "Jordan Lee <jordan.lee@cityscapecre.com>",
+        "subject": "Re: Exploring Retail Spaces in Chelsea - Opportunity for Bright Future",
+        "body": "Hi Jordan,\n\nThanks for reaching out! We\u2019re looking into spots around Chelsea or the West Village, ideally 2,000-3,000 sqft with street frontage. Budget is about $35k/month, flexible if the location is perfect. We need to move within the next 2-3 months.\n\nEvelyn"
+      },
+      {
+        "timestamp": "05-10-2025 09:45 AM",
+        "from": "Jordan Lee <jordan.lee@cityscapecre.com>",
+        "to": "Evelyn Park <evelyn.park@brightfuture.org>",
+        "subject": "Re: Exploring Retail Spaces in Chelsea - Opportunity for Bright Future",
+        "body": "Good morning Evelyn,\n\nI\u2019ve identified a few options, including a prime street-level unit on 8th Ave. It\u2019s 2,500 sqft, listed at $38k/month, but the landlord is open to negotiation, especially if you\u2019re ready to act quickly.\n\nWould you be available for a quick call today to discuss the options?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "05-10-2025 04:10 PM",
+        "from": "Evelyn Park <evelyn.park@brightfuture.org>",
+        "to": "Jordan Lee <jordan.lee@cityscapecre.com>",
+        "subject": "Re: Exploring Retail Spaces in Chelsea - Opportunity for Bright Future",
+        "body": "Hi Jordan,\n\nThanks for the info. The 2,500 sqft spot sounds promising, but we\u2019d need to see it tomorrow. Also, can you confirm if there\u2019s any flexibility on the rent? We\u2019re trying to keep it under $36k if possible.\n\nLet me know if we can schedule a tour tomorrow.\n\nThanks,\nEvelyn"
+      },
+      {
+        "timestamp": "06-10-2025 09:30 AM",
+        "from": "Jordan Lee <jordan.lee@cityscapecre.com>",
+        "to": "Evelyn Park <evelyn.park@brightfuture.org>",
+        "subject": "Re: Exploring Retail Spaces in Chelsea - Opportunity for Bright Future",
+        "body": "Morning Evelyn,\n\nI\u2019ve arranged a tour for 10 AM tomorrow at 123 8th Ave. Regarding rent, I\u2019ll discuss with the landlord about a possible reduction, but given the demand in Chelsea, the price is firm unless you\u2019re ready to move quickly.\n\nLooking forward to meeting you then.\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "06-10-2025 11:45 AM",
+        "from": "Evelyn Park <evelyn.park@brightfuture.org>",
+        "to": "Jordan Lee <jordan.lee@cityscapecre.com>",
+        "subject": "Re: Exploring Retail Spaces in Chelsea - Opportunity for Bright Future",
+        "body": "Hi Jordan,\n\nThanks, I\u2019ll be there at 10. See you then. Please send over any additional details, like floor plans or restrictions.\n\nEvelyn"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "evelyn",
+        "Last Name": "park",
+        "Email": "evelyn.park@brightfuture.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "bright future",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown west"
+      },
+      "First Interaction": "02-10-2025",
+      "Last Interaction": "06-10-2025",
+      "Decision-Maker Role": "executive",
+      "Property Preferences": {
+        "Property Type": "retail",
+        "Preferred Neighborhood": [
+          "midtown west",
+          "downtown"
+        ],
+        "Estimated or Stated Budget": "$30k-$40k",
+        "Must-Haves": [
+          "street frontage",
+          "accessible entrance"
+        ],
+        "Nice-to-Haves": [
+          "exposed brick",
+          "signage"
+        ],
+        "Space Size": "1000-2499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited current space for community events",
+        "need visibility in busy neighborhood"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "15-11-2025 10:15 AM",
+        "from": "Julia Monroe <julia.monroe@crescentrealty.com>",
+        "to": "Ethan Liu <ethan.liu@healthhorizons.org>",
+        "subject": "Healthcare Office Space Opportunity in Midtown East",
+        "body": "Dear Ethan,\n\nI\u2019m Julia Monroe from Crescent Realty. I came across Health Horizons\u2019 impressive growth and wanted to see if you are currently exploring new office options in Manhattan, particularly in Midtown East. We have some spaces that might align with your expansion plans.\n\nLooking forward to your thoughts.\n\nBest,\nJulia"
+      },
+      {
+        "timestamp": "17-11-2025 3:45 PM",
+        "from": "Ethan Liu <ethan.liu@healthhorizons.org>",
+        "to": "Julia Monroe <julia.monroe@crescentrealty.com>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Julia,\n\nThanks for reaching out. We\u2019re actually planning to move within the next 4-6 months. Our current space is too cramped, and we\u2019re looking for at least 8,000 sqft in Midtown East or nearby. Budget-wise, we\u2019re aiming for around $70k/month, but can be flexible for the right fit. Must-haves include good HVAC, accessible entrances, and some private meeting rooms. No immediate urgency, but we want to start touring soon.\n\nCheers,\nEthan"
+      },
+      {
+        "timestamp": "20-11-2025 9:30 AM",
+        "from": "Julia Monroe <julia.monroe@crescentrealty.com>",
+        "to": "Ethan Liu <ethan.liu@healthhorizons.org>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Ethan,\n\nThanks for the details. I\u2019ve identified a few listings that meet your criteria, including a 9,500 sqft space at 45th St with excellent HVAC, ADA compliance, and private conference rooms. The rent is $72k/month, slightly above your budget, but there\u2019s room to negotiate if you\u2019re interested.\n\nWould you be available for a tour next week? Perhaps Tuesday or Wednesday?\n\nBest,\nJulia"
+      },
+      {
+        "timestamp": "21-11-2025 11:20 AM",
+        "from": "Ethan Liu <ethan.liu@healthhorizons.org>",
+        "to": "Julia Monroe <julia.monroe@crescentrealty.com>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Julia,\n\nAppreciate the options. The 45th St space sounds promising, but we\u2019d need to negotiate the rent down to around $68k. Also, our board needs to see the space, so a quick tour would be ideal. Is Tuesday at 11 am possible?\n\nThanks,\nEthan"
+      },
+      {
+        "timestamp": "22-11-2025 2:00 PM",
+        "from": "Julia Monroe <julia.monroe@crescentrealty.com>",
+        "to": "Ethan Liu <ethan.liu@healthhorizons.org>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Ethan,\n\nTuesday at 11 am works perfectly. I\u2019ll arrange the tour and ensure the landlord is prepared to discuss the rent reduction. I\u2019ll also send over the floor plans and some photos beforehand.\n\nLooking forward to meeting you then.\n\nBest,\nJulia"
+      },
+      {
+        "timestamp": "23-11-2025 8:50 AM",
+        "from": "Ethan Liu <ethan.liu@healthhorizons.org>",
+        "to": "Julia Monroe <julia.monroe@crescentrealty.com>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Julia,\n\nThanks for setting this up. We\u2019re quite interested, but if the rent can\u2019t go below $68k, we may need to consider other options. Still, looking forward to the tour.\n\nBest,\nEthan"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "ethan",
+        "Last Name": "liu",
+        "Email": "ethan.liu@healthhorizons.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "health horizons",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "medium (75-250 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "15-11-2025",
+      "Last Interaction": "23-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$70k+",
+        "Must-Haves": [
+          "accessibility",
+          "good hvac",
+          "conference rooms"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "7500-9999 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "current space too cramped"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "12-11-2025 10:15 AM",
+        "from": "Sasha Cohen <sasha.cohen@urbanwave.org>",
+        "to": "Michael Grant <michael.grant@bluehorizon.co>",
+        "subject": "Exploring Office Space Options in Midtown East",
+        "body": "Hi Michael,\n\nI\u2019m Sasha Cohen from Urban Wave Realty. I understand your nonprofit is expanding, and we have some great options nearby. Would you be open to discussing your needs?\n\nBest,\nSasha"
+      },
+      {
+        "timestamp": "14-11-2025 3:40 PM",
+        "from": "Michael Grant <michael.grant@bluehorizon.co>",
+        "to": "Sasha Cohen <sasha.cohen@urbanwave.org>",
+        "subject": "Re: Exploring Office Space Options in Midtown East",
+        "body": "Hi Sasha,\n\nThanks for reaching out. We\u2019re looking for about 3,000 sqft in Midtown East. Budget\u2019s around $40k/month, but flexible if the space is right. Need to move by end of Jan. Our current lease expires soon, so urgency is high.\n\nRegards,\nMichael"
+      },
+      {
+        "timestamp": "16-11-2025 11:05 AM",
+        "from": "Sasha Cohen <sasha.cohen@urbanwave.org>",
+        "to": "Michael Grant <michael.grant@bluehorizon.co>",
+        "subject": "Re: Exploring Office Space Options in Midtown East",
+        "body": "Hi Michael,\n\nThanks for the quick reply. I have a 3,200 sqft space at 45th & 3rd Ave, available immediately at $42k/month. It\u2019s a bit over your initial budget but includes flexible lease terms and great building amenities. Would you like to schedule a tour?\n\nBest,\nSasha"
+      },
+      {
+        "timestamp": "17-11-2025 9:20 AM",
+        "from": "Michael Grant <michael.grant@bluehorizon.co>",
+        "to": "Sasha Cohen <sasha.cohen@urbanwave.org>",
+        "subject": "Re: Exploring Office Space Options in Midtown East",
+        "body": "Hi Sasha,\n\nThat space sounds interesting but $42k is a bit above our ceiling. Could the landlord consider a slight reduction or perhaps include some concessions? Also, we\u2019d prefer a lease of at least 5 years.\n\nThanks,\nMichael"
+      },
+      {
+        "timestamp": "18-11-2025 2:55 PM",
+        "from": "Sasha Cohen <sasha.cohen@urbanwave.org>",
+        "to": "Michael Grant <michael.grant@bluehorizon.co>",
+        "subject": "Re: Exploring Office Space Options in Midtown East",
+        "body": "Hi Michael,\n\nI understand the budget constraints. I\u2019ll discuss with the landlord about a possible rent reduction to $40k and see if they\u2019re open to including some tenant improvement allowances for a 5-year lease. Can we schedule a tour for tomorrow at 11am?\n\nBest,\nSasha"
+      },
+      {
+        "timestamp": "19-11-2025 10:30 AM",
+        "from": "Michael Grant <michael.grant@bluehorizon.co>",
+        "to": "Sasha Cohen <sasha.cohen@urbanwave.org>",
+        "subject": "Re: Exploring Office Space Options in Midtown East",
+        "body": "Hi Sasha,\n\nThanks for the effort. 11am tomorrow works. Also, I need to ensure the space is accessible for our occasional events, so a conference area would be a plus. Looking forward to seeing it.\n\nBest,\nMichael"
+      },
+      {
+        "timestamp": "20-11-2025 8:45 AM",
+        "from": "Sasha Cohen <sasha.cohen@urbanwave.org>",
+        "to": "Michael Grant <michael.grant@bluehorizon.co>",
+        "subject": "Re: Exploring Office Space Options in Midtown East",
+        "body": "Hi Michael,\n\nGreat, I\u2019ll confirm the tour for 11am today. The space has a separate conference room and is ADA accessible. I\u2019ll send you details and the building\u2019s guidelines beforehand.\n\nSee you soon,\nSasha"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "michael",
+        "Last Name": "grant",
+        "Email": "michael.grant@bluehorizon.co",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "blue horizon",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "14-11-2025",
+      "Last Interaction": "20-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "ada accessibility",
+          "conference room"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "2500-4999 sf",
+        "Preferred Lease Term": "5 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "accessibility needs",
+        "lease expiration urgency"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "12-11-2025 10:15 AM",
+        "from": "Jamie Collins <jamie.collins@urbanrealms.com>",
+        "to": "Liam Patel <liam@thelegacygroup.com>",
+        "subject": "Legal Firm Seeking Prime Midtown Space",
+        "body": "Dear Liam,\n\nI hope this message finds you well. I\u2019m Jamie Collins from Urban Realms. We have a client, The Legacy Group, a legal firm expanding their downtown operations. They\u2019re looking for a flexible, high-end office in Midtown East\u2014ideally 8,000 to 10,000 sqft with direct access to courts and transportation hubs.\n\nCould we discuss available options that match their needs? They\u2019re considering a 5-year lease with an eye for premium amenities such as dedicated conference rooms and secure access.\n\nLooking forward to your insights.\n\nBest,\nJamie"
+      },
+      {
+        "timestamp": "13-11-2025 03:50 PM",
+        "from": "Liam Patel <liam@thelegacygroup.com>",
+        "to": "Jamie Collins <jamie.collins@urbanrealms.com>",
+        "subject": "Re: Legal Firm Seeking Prime Midtown Space",
+        "body": "Hi Jamie,\n\nThanks for reaching out. I have a couple of listings that might fit. One is a 9,500 sqft space at 45th & 3rd, recently renovated, with a private entrance and conference facilities. The landlord prefers a 7-year term but is open to negotiations.\n\nThe rent is around $65/ sqft, but I think we can push for some incentives given the current market. Would you like to schedule a tour this week?\n\nBest,\nLiam"
+      },
+      {
+        "timestamp": "14-11-2025 09:20 AM",
+        "from": "Jamie Collins <jamie.collins@urbanrealms.com>",
+        "to": "Liam Patel <liam@thelegacygroup.com>",
+        "subject": "Re: Legal Firm Seeking Prime Midtown Space",
+        "body": "Liam,\n\nThanks for the quick reply. The space sounds promising, but the rent might be a tad over our initial budget\u2014our max is $60/ sqft. Is there room to negotiate? Also, our client prefers a move-in date within 3 months.\n\nCan you send over detailed floor plans and recent inspection reports? We\u2019re eager to see it soon.\n\nBest,\nJamie"
+      },
+      {
+        "timestamp": "15-11-2025 01:10 PM",
+        "from": "Liam Patel <liam@thelegacygroup.com>",
+        "to": "Jamie Collins <jamie.collins@urbanrealms.com>",
+        "subject": "Re: Legal Firm Seeking Prime Midtown Space",
+        "body": "Jamie,\n\nGood news\u2014I can discuss with the landlord about reducing the rent slightly to $62/ sqft and possibly including some tenant improvements. The space is available for a quick move-in\u2014ready within 60 days.\n\nFloor plans are attached, and I\u2019ll arrange a virtual tour tomorrow at 11am. Does that work?\n\nBest,\nLiam"
+      },
+      {
+        "timestamp": "15-11-2025 04:30 PM",
+        "from": "Jamie Collins <jamie.collins@urbanrealms.com>",
+        "to": "Liam Patel <liam@thelegacygroup.com>",
+        "subject": "Re: Legal Firm Seeking Prime Midtown Space",
+        "body": "Liam,\n\nThanks for the update. $62/ sqft is acceptable if the space includes the amenities we discussed. Looking forward to the virtual tour tomorrow at 11am.\n\nAlso, could you confirm if parking spaces are available nearby? Our clients will need secure access.\n\nCheers,\nJamie"
+      },
+      {
+        "timestamp": "16-11-2025 10:45 AM",
+        "from": "Liam Patel <liam@thelegacygroup.com>",
+        "to": "Jamie Collins <jamie.collins@urbanrealms.com>",
+        "subject": "Re: Legal Firm Seeking Prime Midtown Space",
+        "body": "Jamie,\n\nConfirmed: parking options are available within a short walk, and the space includes all requested amenities. The landlord is flexible with lease terms for a 5-year commitment. The virtual tour is scheduled for 11am today.\n\nPlease let me know if you need anything else before then.\n\nBest,\nLiam"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "liam",
+        "Last Name": "patel",
+        "Email": "liam@thelegacygroup.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "the legacy group",
+        "Industry": [
+          "legal"
+        ],
+        "Company Size": "medium (75-250 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "12-11-2025",
+      "Last Interaction": "16-11-2025",
+      "Decision-Maker Role": "partner",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "unknown",
+        "Must-Haves": [
+          "conference rooms",
+          "high-end finishes",
+          "security features"
+        ],
+        "Nice-to-Haves": [
+          "parking",
+          "proximity to courts"
+        ],
+        "Space Size": "7500-9999 sf",
+        "Preferred Lease Term": "5 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited nearby parking",
+        "need for high-end amenities"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Liam Grant <liam.grant@citycultural.org>",
+        "to": "Broker <info@urbanrealty.com>",
+        "subject": "Looking for Creative Space in Chelsea",
+        "body": "Hi,\n\nI\u2019m Liam Grant, representing City Cultural, a nonprofit focused on arts and community engagement. We\u2019re exploring new spaces in Chelsea to expand our programming. Currently, we\u2019re in a small gallery, but need around 4,000 sqft with good natural light and flexible lease options. Budget is around $30k/month; timeline is about 6 months. Can you help?\n\nThanks,\nLiam"
+      },
+      {
+        "timestamp": "07-11-2025 02:50 PM",
+        "from": "Broker <info@urbanrealty.com>",
+        "to": "Liam Grant <liam.grant@citycultural.org>",
+        "subject": "Re: Looking for Creative Space in Chelsea",
+        "body": "Hi Liam,\n\nThanks for reaching out. I have a few options in Chelsea that might suit your needs. One is a 4,200 sqft open-plan loft at 10th Ave with large windows and high ceilings, listed at $32k/month. It's available in 3 months, and the landlord is open to flexible lease terms for nonprofits.\n\nWould you be available for a tour next week?\n\nBest,\nAlex"
+      },
+      {
+        "timestamp": "09-11-2025 09:45 AM",
+        "from": "Liam Grant <liam.grant@citycultural.org>",
+        "to": "Broker <info@urbanrealty.com>",
+        "subject": "Re: Looking for Creative Space in Chelsea",
+        "body": "Hi Alex,\n\nThanks for the options. The space sounds good, but $32k is slightly over our budget. What about negotiating the rent? Also, we\u2019d need some flexibility on lease length and build-out timeline.\n\nAppreciate your help.\n\nLiam"
+      },
+      {
+        "timestamp": "09-11-2025 03:10 PM",
+        "from": "Broker <info@urbanrealty.com>",
+        "to": "Liam Grant <liam.grant@citycultural.org>",
+        "subject": "Re: Looking for Creative Space in Chelsea",
+        "body": "Hi Liam,\n\nI understand budget constraints. The landlord might be willing to lower rent to $30.5k if you commit to a 5-year lease and start the build-out within 2 months. They\u2019re quite motivated, especially since the space has been vacant for a while.\n\nWould you like to schedule a tour to see the space in person?\n\nBest,\nAlex"
+      },
+      {
+        "timestamp": "11-11-2025 11:20 AM",
+        "from": "Liam Grant <liam.grant@citycultural.org>",
+        "to": "Broker <info@urbanrealty.com>",
+        "subject": "Re: Looking for Creative Space in Chelsea",
+        "body": "Hi Alex,\n\nYeah, I think a tour makes sense. Can you do tomorrow at 11 am? Also, can you confirm if there\u2019s any onsite parking or loading area? Our equipment needs easy access.\n\nThanks,\n\nLiam"
+      },
+      {
+        "timestamp": "11-11-2025 11:55 AM",
+        "from": "Broker <info@urbanrealty.com>",
+        "to": "Liam Grant <liam.grant@citycultural.org>",
+        "subject": "Re: Looking for Creative Space in Chelsea",
+        "body": "Hi Liam,\n\nConfirmed for tomorrow at 11 am. The space has street-level access with a loading zone nearby, and there\u2019s limited street parking on 10th Ave. I\u2019ll send you the exact address shortly.\n\nLooking forward to showing you around.\n\nBest,\nAlex"
+      },
+      {
+        "timestamp": "12-11-2025 04:00 PM",
+        "from": "Liam Grant <liam.grant@citycultural.org>",
+        "to": "Broker <info@urbanrealty.com>",
+        "subject": "Re: Looking for Creative Space in Chelsea",
+        "body": "Hi Alex,\n\nThanks for the tour today. The space is promising, but I\u2019m concerned about the parking situation and the build-out timeline. We need to start in 3 months, but the landlord mentioned a 6-month build-out period.\n\nCan we discuss options to expedite this or find a similar space with better access?\n\nBest,\nLiam"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "liam",
+        "Last Name": "grant",
+        "Email": "liam.grant@citycultural.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "city cultural",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "micro (5-20 employees)",
+        "Growth Stage": "early-stage",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "12-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "flex-space",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$30k-$40k",
+        "Must-Haves": [
+          "loading area",
+          "natural light",
+          "flexible lease"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "parking access",
+        "build-out timeline"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "negotiations ongoing",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "02-11-2025 10:15 AM",
+        "from": "Jane Morgan <jane.morgan@brightfuture.org>",
+        "to": "Ethan Caldwell <ethan.caldwell@urbanhive.org>",
+        "subject": "Inquiry: Flexible Office Space in Chelsea",
+        "body": "Hi Ethan,\n\nI\u2019m Jane Morgan from Bright Future Nonprofit. We are considering relocating our main office and are interested in flexible, affordable spaces in Chelsea. Could you share some options that fit around $35k/month, ideally 3-5 years lease?\n\nThanks,\nJane"
+      },
+      {
+        "timestamp": "02-11-2025 02:45 PM",
+        "from": "Ethan Caldwell <ethan.caldwell@urbanhive.org>",
+        "to": "Jane Morgan <jane.morgan@brightfuture.org>",
+        "subject": "Re: Inquiry: Flexible Office Space in Chelsea",
+        "body": "Hi Jane,\n\nThanks for reaching out. I have a couple of options in Chelsea\u2014one is a 4,000 sqft open-plan space at 7th Ave, listed at $36k/month, with flexible lease terms. It\u2019s got good natural light and a community vibe, perfect for a nonprofit.\n\nWould you like to schedule a tour?\n\nBest,\nEthan"
+      },
+      {
+        "timestamp": "03-11-2025 09:30 AM",
+        "from": "Jane Morgan <jane.morgan@brightfuture.org>",
+        "to": "Ethan Caldwell <ethan.caldwell@urbanhive.org>",
+        "subject": "Re: Re: Inquiry: Flexible Office Space in Chelsea",
+        "body": "Hi Ethan,\n\nSounds good. Can we see it tomorrow at 11? Also, do the spaces include meeting rooms or communal areas?\n\nThx,\nJane"
+      },
+      {
+        "timestamp": "03-11-2025 11:15 AM",
+        "from": "Ethan Caldwell <ethan.caldwell@urbanhive.org>",
+        "to": "Jane Morgan <jane.morgan@brightfuture.org>",
+        "subject": "Re: Re: Re: Inquiry: Flexible Office Space in Chelsea",
+        "body": "Hi Jane,\n\nYes, the space includes shared conference rooms and kitchen facilities. I\u2019ll set up the tour for 11 tomorrow at 420 W 15th St. Looking forward to showing you around.\n\nBest,\nEthan"
+      },
+      {
+        "timestamp": "04-11-2025 08:20 AM",
+        "from": "Jane Morgan <jane.morgan@brightfuture.org>",
+        "to": "Ethan Caldwell <ethan.caldwell@urbanhive.org>",
+        "subject": "Re: Re: Re: Re: Inquiry: Flexible Office Space in Chelsea",
+        "body": "Hi Ethan,\n\nThanks for confirming. We\u2019re a bit concerned about the $36k price\u2014are there any negotiations possible? Also, we\u2019d need the lease to start by early December.\n\nThanks,\nJane"
+      },
+      {
+        "timestamp": "04-11-2025 09:45 AM",
+        "from": "Ethan Caldwell <ethan.caldwell@urbanhive.org>",
+        "to": "Jane Morgan <jane.morgan@brightfuture.org>",
+        "subject": "Re: Re: Re: Re: Re: Inquiry: Flexible Office Space in Chelsea",
+        "body": "Hi Jane,\n\nI can check with the landlord about the price; there\u2019s some flexibility if you\u2019re ready to move quickly. Lease could commence by December 1, if that works.\n\nI'll confirm the details shortly.\n\nBest,\nEthan"
+      },
+      {
+        "timestamp": "04-11-2025 03:30 PM",
+        "from": "Jane Morgan <jane.morgan@brightfuture.org>",
+        "to": "Ethan Caldwell <ethan.caldwell@urbanhive.org>",
+        "subject": "Re: Re: Re: Re: Re: Re: Inquiry: Flexible Office Space in Chelsea",
+        "body": "Hi Ethan,\n\nAppreciate it. Please let me know what the landlord says about the price. If it\u2019s doable, we\u2019d like to proceed with a tour tomorrow at 11:30 AM.\n\nThanks,\nJane"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "jane",
+        "Last Name": "morgan",
+        "Email": "jane.morgan@brightfuture.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "bright future nonprofit",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "02-11-2025",
+      "Last Interaction": "04-11-2025",
+      "Decision-Maker Role": "unknown",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$30k-$40k",
+        "Must-Haves": [
+          "conference rooms",
+          "kitchen facilities"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited communal areas in current space",
+        "high operational costs"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "negotiations ongoing",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "02-11-2025 10:15 AM",
+        "from": "Jordan Blake <jordan.blake@urbanedge.com>",
+        "to": "Eric Coleman <eric.coleman@legacyfunds.com>",
+        "subject": "Flexible Lease Options for Growing Healthcare Firm",
+        "body": "Hi Eric,\n\nI\u2019m Jordan Blake from UrbanEdge Realty. I noticed your firm, MediCare Solutions, is expanding rapidly in Manhattan. Are you currently exploring new office spaces that offer flexibility for future growth?\n\nLooking forward to assisting.\nBest,\nJordan"
+      },
+      {
+        "timestamp": "04-11-2025 02:05 PM",
+        "from": "Eric Coleman <eric.coleman@legacyfunds.com>",
+        "to": "Jordan Blake <jordan.blake@urbanedge.com>",
+        "subject": "Re: Flexible Lease Options for Growing Healthcare Firm",
+        "body": "Hi Jordan,\n\nThanks for reaching out. Yes, we\u2019re considering options in Midtown East, ideally around 4,000 to 5,000 sqft. Our main concern is finding a space that can adapt as we expand over the next 3-5 years. Budget-wise, we\u2019re looking at $45k\u2013$55k/month.\n\nAppreciate any suggestions.\nCheers,\nEric"
+      },
+      {
+        "timestamp": "05-11-2025 09:30 AM",
+        "from": "Jordan Blake <jordan.blake@urbanedge.com>",
+        "to": "Eric Coleman <eric.coleman@legacyfunds.com>",
+        "subject": "Re: Flexible Lease Options for Growing Healthcare Firm",
+        "body": "Good morning, Eric,\n\nI have a couple of listings that might fit your needs. One is a 4,500 sqft office at 45th & Park Ave with ample room for expansion, lease at $50k/month. It\u2019s a modern build-out, ADA compliant, and has a flexible lease term. Would you like to schedule a tour this week?\n\nAlso, the landlord is open to negotiations for a longer-term lease.\nBest,\nJordan"
+      },
+      {
+        "timestamp": "06-11-2025 11:00 AM",
+        "from": "Eric Coleman <eric.coleman@legacyfunds.com>",
+        "to": "Jordan Blake <jordan.blake@urbanedge.com>",
+        "subject": "Re: Flexible Lease Options for Growing Healthcare Firm",
+        "body": "Hey Jordan,\n\nSounds promising. We\u2019d like to see it. Also, do you have any other options in case this one doesn\u2019t work out? We\u2019re pretty eager to move within 60 days, so timing is tight.\n\nThanks,\nEric"
+      },
+      {
+        "timestamp": "07-11-2025 01:45 PM",
+        "from": "Jordan Blake <jordan.blake@urbanedge.com>",
+        "to": "Eric Coleman <eric.coleman@legacyfunds.com>",
+        "subject": "Re: Flexible Lease Options for Growing Healthcare Firm",
+        "body": "Hi Eric,\n\nAbsolutely, I\u2019ll send over a few additional listings today. Let\u2019s plan for a tour tomorrow at 10am at 45th & Park. I\u2019ll confirm both the space and the flexible lease terms.\n\nLooking forward to showing you around.\nBest,\nJordan"
+      },
+      {
+        "timestamp": "07-11-2025 03:30 PM",
+        "from": "Eric Coleman <eric.coleman@legacyfunds.com>",
+        "to": "Jordan Blake <jordan.blake@urbanedge.com>",
+        "subject": "Re: Flexible Lease Options for Growing Healthcare Firm",
+        "body": "Thanks, Jordan. Appreciate the quick turnaround. See you tomorrow.\n\nBest,\nEric"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "eric",
+        "Last Name": "coleman",
+        "Email": "eric.coleman@legacyfunds.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "medicare solutions",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "04-11-2025",
+      "Last Interaction": "07-11-2025",
+      "Decision-Maker Role": "ceo",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "ada compliance",
+          "flexible layout"
+        ],
+        "Nice-to-Haves": [
+          "parking",
+          "modern build-out"
+        ],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "swift (0\u20132 months)",
+      "Pain Points": [
+        "limited current space for expansion",
+        "need flexible lease terms"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "10-11-2025 10:15 AM",
+        "from": "Jordan Morris <jordan.morris@crescentlegal.com>",
+        "to": "Alexandra Ramirez <alex.ramirez@peakretail.com>",
+        "subject": "Legal Firm Looking for Prime Retail Space",
+        "body": "Hi Alex,\n\nI'm Jordan Morris, Facilities Manager at Crescent Legal. We\u2019re considering expanding into Manhattan and need a retail space that projects professionalism\u2014ideally in Tribeca or Soho. Our current space is too cramped, and we\u2019re aiming for something modern, about 4,000 sqft. Budget around $45k/month. We\u2019d need the space ready in 3-4 months.\n\nThanks,\nJordan"
+      },
+      {
+        "timestamp": "13-11-2025 02:50 PM",
+        "from": "Alexandra Ramirez <alex.ramirez@peakretail.com>",
+        "to": "Jordan Morris <jordan.morris@crescentlegal.com>",
+        "subject": "Re: Legal Firm Looking for Prime Retail Space",
+        "body": "Hi Jordan,\n\nThanks for reaching out. I have a couple of listings in Tribeca and Soho that could fit your needs. One is a 3,800 sqft corner spot at $48k/month with high-end finishes and excellent foot traffic. It\u2019s move-in ready in about 4 months. Would you be available for a quick call or tour this week?\n\nBest,\nAlex"
+      },
+      {
+        "timestamp": "15-11-2025 09:30 AM",
+        "from": "Jordan Morris <jordan.morris@crescentlegal.com>",
+        "to": "Alexandra Ramirez <alex.ramirez@peakretail.com>",
+        "subject": "Re: Re: Legal Firm Looking for Prime Retail Space",
+        "body": "Hi Alex,\n\nThe corner spot sounds interesting. Can you send over the floor plans and pics? Also, we\u2019re a bit concerned about the lease terms\u2014ideally, we\u2019d like a 5-year lease with options. Is that negotiable?\n\nThanks,\nJordan"
+      },
+      {
+        "timestamp": "16-11-2025 11:00 AM",
+        "from": "Alexandra Ramirez <alex.ramirez@peakretail.com>",
+        "to": "Jordan Morris <jordan.morris@crescentlegal.com>",
+        "subject": "Re: Re: Re: Legal Firm Looking for Prime Retail Space",
+        "body": "Hi Jordan,\n\nAbsolutely, lease terms are flexible. I\u2019ll send you the floor plans and recent photos by end of day. Regarding the lease, a 5-year term is common, and we can explore options for renewal or expansion. Are you available for a viewing tomorrow afternoon?\n\nBest,\nAlex"
+      },
+      {
+        "timestamp": "17-11-2025 03:15 PM",
+        "from": "Jordan Morris <jordan.morris@crescentlegal.com>",
+        "to": "Alexandra Ramirez <alex.ramirez@peakretail.com>",
+        "subject": "Re: Re: Re: Re: Legal Firm Looking for Prime Retail Space",
+        "body": "Hi Alex,\n\nThanks for the info. We\u2019re interested, but we need to push the budget a bit\u2014I\u2019d say max $44k. Also, we\u2019d want to start lease negotiations next week. Can you accommodate that?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "18-11-2025 09:45 AM",
+        "from": "Alexandra Ramirez <alex.ramirez@peakretail.com>",
+        "to": "Jordan Morris <jordan.morris@crescentlegal.com>",
+        "subject": "Re: Re: Re: Re: Re: Legal Firm Looking for Prime Retail Space",
+        "body": "Hi Jordan,\n\nI understand the budget concern. I will negotiate with the landlord about the rent reduction; however, I can\u2019t promise it\u2019ll drop below $45k. Would you be able to move quickly if we reach an agreement?\n\nCan we schedule a tour for tomorrow at 11am?\n\nBest,\nAlex"
+      },
+      {
+        "timestamp": "19-11-2025 10:00 AM",
+        "from": "Jordan Morris <jordan.morris@crescentlegal.com>",
+        "to": "Alexandra Ramirez <alex.ramirez@peakretail.com>",
+        "subject": "Re: Re: Re: Re: Re: Re: Legal Firm Looking for Prime Retail Space",
+        "body": "Hi Alex,\n\nYes, we can do a tour tomorrow at 11am. If the space is suitable, we\u2019re ready to proceed quickly. Please confirm.\n\nThanks,\nJordan"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "jordan",
+        "Last Name": "morris",
+        "Email": "jordan.morris@crescentlegal.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "crescent legal",
+        "Industry": [
+          "legal"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "10-11-2025",
+      "Last Interaction": "19-11-2025",
+      "Decision-Maker Role": "facilities",
+      "Property Preferences": {
+        "Property Type": "retail",
+        "Preferred Neighborhood": [
+          "downtown"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [],
+        "Nice-to-Haves": [],
+        "Space Size": "2500-4999 sf",
+        "Preferred Lease Term": "5 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "current space too cramped"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "02-11-2025 10:15 AM",
+        "from": "Taylor Morgan <taylor.morgan@bridgeviewrealty.com>",
+        "to": "Derek Foster <derek.foster@newhorizons.org>",
+        "subject": "Potential Office Space in Chelsea for New Horizons",
+        "body": "Dear Mr. Foster,\n\nI hope this message finds you well. I recently came across New Horizons' expansion plans and thought you might be interested in some prime office spaces we have available in Chelsea. These spaces could align well with your growth trajectory, especially given your focus on community engagement and flexible work environments.\n\nWould you be available for a quick call this week to discuss your needs?\n\nBest regards,\nTaylor Morgan\nSenior Commercial Broker | Bridgeview Realty\n\ud83d\udcde (212) 555-0192"
+      },
+      {
+        "timestamp": "04-11-2025 03:05 PM",
+        "from": "Derek Foster <derek.foster@newhorizons.org>",
+        "to": "Taylor Morgan <taylor.morgan@bridgeviewrealty.com>",
+        "subject": "Re: Potential Office Space in Chelsea for New Horizons",
+        "body": "Hi Taylor,\n\nThanks for reaching out. We\u2019re currently exploring options for a new office space as our current lease ends in March. Preference is for something around 4,000-5,000 sqft, ideally in Chelsea or nearby. Budget is around $45k/month. We really need a space that\u2019s adaptable\u2014preferably with open plan and access to outdoor space if possible.\n\nNot sure if you have anything that fits those criteria. Let me know.\n\nBest,\nDerek"
+      },
+      {
+        "timestamp": "05-11-2025 09:20 AM",
+        "from": "Taylor Morgan <taylor.morgan@bridgeviewrealty.com>",
+        "to": "Derek Foster <derek.foster@newhorizons.org>",
+        "subject": "Re: Potential Office Space in Chelsea for New Horizons",
+        "body": "Good morning Derek,\n\nThanks for the quick reply. I\u2019ve identified a couple of spaces that might suit your needs:\n\n1. 4,500 sqft open-layout office at 222 8th Ave, listed at $43k/month, with a small outdoor terrace.\n2. 5,200 sqft in a newer building at 300 W 22nd St, also at $45k/month, with flexible partitioning options.\n\nWould you be interested in scheduling viewings this week? Also, are there any other must-haves or deal breakers?\n\nLooking forward to your thoughts.\n\nBest,\nTaylor"
+      },
+      {
+        "timestamp": "06-11-2025 11:45 AM",
+        "from": "Derek Foster <derek.foster@newhorizons.org>",
+        "to": "Taylor Morgan <taylor.morgan@bridgeviewrealty.com>",
+        "subject": "Re: Potential Office Space in Chelsea for New Horizons",
+        "body": "Hi Taylor,\n\nThe terrace is a plus, but we also need good natural light and some private meeting rooms for client calls. The 222 8th Ave space sounds promising, but I\u2019d like to see photos and floor plans if you have them.\n\nCan you also check if rent includes any build-out allowance?\n\nThanks,\nDerek"
+      },
+      {
+        "timestamp": "07-11-2025 02:30 PM",
+        "from": "Taylor Morgan <taylor.morgan@bridgeviewrealty.com>",
+        "to": "Derek Foster <derek.foster@newhorizons.org>",
+        "subject": "Re: Potential Office Space in Chelsea for New Horizons",
+        "body": "Hi Derek,\n\nAbsolutely, I\u2019ve attached detailed floor plans and photos of the 222 8th Ave space. The landlord is offering a $5k build-out allowance, which can be used to customize the space to your needs.\n\nWould you be available for a tour later this week? I can accommodate your schedule.\n\nBest,\nTaylor"
+      },
+      {
+        "timestamp": "08-11-2025 09:10 AM",
+        "from": "Derek Foster <derek.foster@newhorizons.org>",
+        "to": "Taylor Morgan <taylor.morgan@bridgeviewrealty.com>",
+        "subject": "Re: Potential Office Space in Chelsea for New Horizons",
+        "body": "Hi Taylor,\n\nThanks for the info. The space looks good, but I need to verify if it fits our timeline\u2014our current lease ends in February, so we\u2019d like to move in by then. Also, we might need to negotiate the rent slightly, as our budget is tight.\n\nCan we schedule a tour for Thursday afternoon?\n\nRegards,\nDerek"
+      },
+      {
+        "timestamp": "09-11-2025 04:50 PM",
+        "from": "Taylor Morgan <taylor.morgan@bridgeviewrealty.com>",
+        "to": "Derek Foster <derek.foster@newhorizons.org>",
+        "subject": "Re: Potential Office Space in Chelsea for New Horizons",
+        "body": "Hi Derek,\n\nThursday works perfectly. I\u2019ll set up the tour for 2 PM. I\u2019ll also check if the landlord can offer a slight rent reduction to better fit your budget.\n\nLooking forward to meeting you then.\n\nBest,\nTaylor"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "derek",
+        "Last Name": "foster",
+        "Email": "derek.foster@newhorizons.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "new horizons",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "04-11-2025",
+      "Last Interaction": "09-11-2025",
+      "Decision-Maker Role": "executive",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "conference rooms",
+          "natural light"
+        ],
+        "Nice-to-Haves": [
+          "outdoor space"
+        ],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "current lease ending soon",
+        "need adaptable space for meetings"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Jordan Greene <jordan.greene@urbanarc.com>",
+        "to": "Liam Harper <liam.harper@urbanhive.org>",
+        "subject": "Potential Space in Midtown East for UrbanArc's Growth",
+        "body": "Hi Liam,\n\nI noticed your recent expansion and thought Midtown East could be a great fit for UrbanArc\u2019s upcoming projects. We have some flexible office options that might align with your needs. Are you available for a quick call next week to discuss?\nBest,\nJordan"
+      },
+      {
+        "timestamp": "07-11-2025 02:50 PM",
+        "from": "Liam Harper <liam.harper@urbanhive.org>",
+        "to": "Jordan Greene <jordan.greene@urbanarc.com>",
+        "subject": "Re: Potential Space in Midtown East for UrbanArc's Growth",
+        "body": "Hey Jordan,\n\nThanks for reaching out. We\u2019re actually considering a move in the next 3-6 months, mainly to accommodate a larger team. Our budget is around $65k/month max, but flexible if the space is right. Preferably 10-12k sqft, with good natural light and proximity to transportation.\nLet\u2019s set up a call. Next week works for me.\nCheers,\nLiam"
+      },
+      {
+        "timestamp": "09-11-2025 09:30 AM",
+        "from": "Jordan Greene <jordan.greene@urbanarc.com>",
+        "to": "Liam Harper <liam.harper@urbanhive.org>",
+        "subject": "Re: Potential Space in Midtown East for UrbanArc's Growth",
+        "body": "Good morning Liam,\n\nThanks for the quick reply. I\u2019ve identified a few options, including a 11k sqft space at 55th & Lexington that checks most boxes\u2014corner unit with plenty of windows and a short walk to subways. Listed at $68k, but I can negotiate with the landlord, especially if you're ready to move quickly.\nWould love to arrange a tour and get your feedback.\nBest,\nJordan"
+      },
+      {
+        "timestamp": "10-11-2025 11:00 AM",
+        "from": "Liam Harper <liam.harper@urbanhive.org>",
+        "to": "Jordan Greene <jordan.greene@urbanarc.com>",
+        "subject": "Re: Potential Space in Midtown East for UrbanArc's Growth",
+        "body": "Jordan,\n\nThat space sounds promising, but $68k is slightly above our cap. Can you push for a better deal? Also, we\u2019d need the lease to be at least 5 years, ideally 7. We\u2019re aiming for move-in within 4 months.\nLet me know if that\u2019s feasible.\nThanks,\nLiam"
+      },
+      {
+        "timestamp": "11-11-2025 04:20 PM",
+        "from": "Jordan Greene <jordan.greene@urbanarc.com>",
+        "to": "Liam Harper <liam.harper@urbanhive.org>",
+        "subject": "Re: Potential Space in Midtown East for UrbanArc's Growth",
+        "body": "Hi Liam,\n\nI\u2019ve spoken with the landlord, and they\u2019re open to reducing the rent to $65k if you sign a 7-year lease and can move in by end of January. They\u2019re also willing to include some tenant improvements.\nDo you want to schedule a tour for later this week?\nBest,\nJordan"
+      },
+      {
+        "timestamp": "12-11-2025 09:00 AM",
+        "from": "Liam Harper <liam.harper@urbanhive.org>",
+        "to": "Jordan Greene <jordan.greene@urbanarc.com>",
+        "subject": "Re: Potential Space in Midtown East for UrbanArc's Growth",
+        "body": "Jordan,\n\nThat works. Let\u2019s do a tour tomorrow at 11am. I\u2019ll bring our facilities manager to review the space and discuss modifications.\nAppreciate your flexibility.\nCheers,\nLiam"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "liam",
+        "Last Name": "harper",
+        "Email": "liam.harper@urbanhive.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "urbanhive",
+        "Industry": [
+          "creative"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "downtown"
+      },
+      "First Interaction": "07-11-2025",
+      "Last Interaction": "12-11-2025",
+      "Decision-Maker Role": "founder",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$60k-$70k",
+        "Must-Haves": [
+          "transportation access",
+          "natural light"
+        ],
+        "Nice-to-Haves": [
+          "corner unit",
+          "tenant improvements"
+        ],
+        "Space Size": "10000+ sf",
+        "Preferred Lease Term": "7 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited natural light",
+        "current space too small"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "10-11-2025 11:15 AM",
+        "from": "Jordan Reynolds <jordan.reynolds@catalystlegal.com>",
+        "to": "Evelyn Chen <evelyn.chen@catalystlegal.com>",
+        "subject": "Legal Office Space Inquiry in Midtown East",
+        "body": "Hi Evelyn,\n\nI\u2019m reaching out from Summit Realty. I understand your firm is looking to relocate within Manhattan. Are you still in the market for a new office in Midtown East? We have some options that might suit your needs.\n\nBest,\nJordan Reynolds"
+      },
+      {
+        "timestamp": "12-11-2025 02:05 PM",
+        "from": "Evelyn Chen <evelyn.chen@catalystlegal.com>",
+        "to": "Jordan Reynolds <jordan.reynolds@catalystlegal.com>",
+        "subject": "Re: Legal Office Space Inquiry in Midtown East",
+        "body": "Hi Jordan,\n\nThanks for reaching out. Yes, we\u2019re actively exploring new offices. Ideally, we need around 3,500 sqft, preferably in Midtown East. Budget is flexible up to $70k/month, but we\u2019d prefer to keep it under $65k if possible.\nCurrent space is outdated, and we need reliable HVAC, conference rooms, and direct elevator access.\nWould love to see some options this week.\nThanks,\nEvelyn"
+      },
+      {
+        "timestamp": "13-11-2025 09:30 AM",
+        "from": "Jordan Reynolds <jordan.reynolds@catalystlegal.com>",
+        "to": "Evelyn Chen <evelyn.chen@catalystlegal.com>",
+        "subject": "Re: Legal Office Space Inquiry in Midtown East",
+        "body": "Good morning Evelyn,\n\nThanks for the details. I\u2019ve identified a couple of listings that match your criteria: a 3,700 sqft corner suite at 55th & Lexington with direct elevator access and updated HVAC, listed at $65k/month. Also, a 3,200 sqft space at 53rd & Park with conference rooms and a small terrace, listed at $63k.\nWould you like to schedule viewings for these this week?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "13-11-2025 04:45 PM",
+        "from": "Evelyn Chen <evelyn.chen@catalystlegal.com>",
+        "to": "Jordan Reynolds <jordan.reynolds@catalystlegal.com>",
+        "subject": "Re: Legal Office Space Inquiry in Midtown East",
+        "body": "Hi Jordan,\n\nThe 55th & Lexington space sounds promising. Can we see it tomorrow at 10am? Also, can you confirm if parking is available nearby\u2014our senior partners prefer easy parking options.\nThanks,\nEvelyn"
+      },
+      {
+        "timestamp": "14-11-2025 08:00 AM",
+        "from": "Jordan Reynolds <jordan.reynolds@catalystlegal.com>",
+        "to": "Evelyn Chen <evelyn.chen@catalystlegal.com>",
+        "subject": "Re: Legal Office Space Inquiry in Midtown East",
+        "body": "Morning Evelyn,\n\nConfirmed. I\u2019ve scheduled the tour for tomorrow at 10am at 55th & Lexington. Parking options are limited, but there\u2019s a nearby garage that offers monthly rates. I\u2019ll send you the details.\nLooking forward to showing you the space.\nBest,\nJordan"
+      },
+      {
+        "timestamp": "14-11-2025 10:15 AM",
+        "from": "Evelyn Chen <evelyn.chen@catalystlegal.com>",
+        "to": "Jordan Reynolds <jordan.reynolds@catalystlegal.com>",
+        "subject": "Re: Legal Office Space Inquiry in Midtown East",
+        "body": "Thanks, Jordan. Appreciate the quick setup. We\u2019ll be there at 10. See you then.\n\u2014 Evelyn"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "evelyn",
+        "Last Name": "chen",
+        "Email": "evelyn.chen@catalystlegal.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "catalyst legal",
+        "Industry": [
+          "legal"
+        ],
+        "Company Size": "medium (75-250 employees)",
+        "Growth Stage": "mature",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "10-11-2025",
+      "Last Interaction": "14-11-2025",
+      "Decision-Maker Role": "partner",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$30k-$40k",
+        "Must-Haves": [
+          "direct elevator access",
+          "hvac",
+          "conference rooms"
+        ],
+        "Nice-to-Haves": [
+          "outdoor space",
+          "parking"
+        ],
+        "Space Size": "2500-4999 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "outdated infrastructure",
+        "limited parking options"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "15-11-2025 10:15 AM",
+        "from": "Broker Jane Goodwin <jane.goodwin@cityscape.com>",
+        "to": "Decision Maker Alex Marshall <alex.marshall@healthcrafters.org>",
+        "subject": "Healthcare Office Space Opportunity in Midtown East",
+        "body": "Dear Alex,\n\nI hope this message finds you well. I\u2019m reaching out to introduce a prime office space suitable for Healthcare organizations like yours. Located in Midtown East, this 8,000 sqft property offers excellent accessibility and state-of-the-art amenities.\n\nGiven your growth phase, I believe this could be a great fit. Would you be available for a quick call or tour next week?\n\nBest regards,\nJane Goodwin\nSenior Commercial Broker | Cityscape Realty\n\ud83d\udcde (212) 555-3421"
+      },
+      {
+        "timestamp": "17-11-2025 03:05 PM",
+        "from": "Decision Maker Alex Marshall <alex.marshall@healthcrafters.org>",
+        "to": "Broker Jane Goodwin <jane.goodwin@cityscape.com>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Jane,\n\nThx for reaching out. We\u2019re actively looking to expand, but need to stay within a tight budget\u2014around $60k/month max. Also, we require a space that can support future tech upgrades and has good natural light.\n\nCan you share more details or similar options?\n\nRegards,\nAlex"
+      },
+      {
+        "timestamp": "18-11-2025 09:20 AM",
+        "from": "Broker Jane Goodwin <jane.goodwin@cityscape.com>",
+        "to": "Decision Maker Alex Marshall <alex.marshall@healthcrafters.org>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Alex,\n\nThanks for the quick reply. I have a recently renovated building just a few blocks from your current location, offering 8,200 sqft at $65k/month. It features high-speed internet, advanced HVAC systems, and plenty of natural light.\n\nGiven your budget, I can negotiate with the landlord for a potential deal at $60k if you\u2019re interested in moving quickly.\n\nWould you like to schedule a tour this week?\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "19-11-2025 11:45 AM",
+        "from": "Decision Maker Alex Marshall <alex.marshall@healthcrafters.org>",
+        "to": "Broker Jane Goodwin <jane.goodwin@cityscape.com>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Jane,\n\nSounds promising, but we need to get approval from the board. Also, our current lease ends in 4 months, so timing is tight. Can you send floor plans and more info?\n\nWe\u2019re leaning towards a space that can support future expansion, but need to see the details first.\n\nThanks,\nAlex"
+      },
+      {
+        "timestamp": "20-11-2025 02:30 PM",
+        "from": "Broker Jane Goodwin <jane.goodwin@cityscape.com>",
+        "to": "Decision Maker Alex Marshall <alex.marshall@healthcrafters.org>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Alex,\n\nAbsolutely, I\u2019ve attached the floor plans and detailed specifications for the property. I can arrange a virtual tour or in-person visit as soon as your team is ready.\n\nGiven your timeline, I recommend scheduling a tour within the next 2 days. Let me know what works best.\n\nLooking forward to your feedback.\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "22-11-2025 09:00 AM",
+        "from": "Decision Maker Alex Marshall <alex.marshall@healthcrafters.org>",
+        "to": "Broker Jane Goodwin <jane.goodwin@cityscape.com>",
+        "subject": "Re: Healthcare Office Space Opportunity in Midtown East",
+        "body": "Hi Jane,\n\nThanks for the info. We\u2019re planning to present this to the board tomorrow. If they approve, we\u2019d like to do a tour today in the afternoon.\n\nCan you confirm availability?\n\nBest,\nAlex"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "alex",
+        "Last Name": "marshall",
+        "Email": "alex.marshall@healthcrafters.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "healthcrafters",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "large (250-1000 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "15-11-2025",
+      "Last Interaction": "22-11-2025",
+      "Decision-Maker Role": "executive",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$60k-$70k",
+        "Must-Haves": [
+          "support for future tech upgrades",
+          "reliable internet",
+          "natural light"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "7500-9999 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "current lease ending soon",
+        "need support for expansion"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "12-11-2025 10:15 AM",
+        "from": "Evelyn Parker <evelyn.parker@careconnect.org>",
+        "to": "Jordan Matthews <jordan.matthews@realdynamics.com>",
+        "subject": "Seeking New Healthcare Facility in Manhattan",
+        "body": "Dear Jordan,\n\nI\u2019m Evelyn Parker, Facilities Director at CareConnect. Our current clinic in Chelsea is reaching capacity, and we\u2019re considering a move to better serve our patients. Would you have some options for a suitable space in Midtown East or East Village?\n\nLooking forward to your suggestions.\nBest,\nEvelyn"
+      },
+      {
+        "timestamp": "15-11-2025 02:03 PM",
+        "from": "Jordan Matthews <jordan.matthews@realdynamics.com>",
+        "to": "Evelyn Parker <evelyn.parker@careconnect.org>",
+        "subject": "Re: Seeking New Healthcare Facility in Manhattan",
+        "body": "Hi Evelyn,\n\nThanks for reaching out. I have a few listings that might fit your needs\u2014one is a 4,500 sqft space in East Village with excellent natural light and ADA compliance, listed at $65K/month. It\u2019s move-in ready and close to public transit.\nWould you like to schedule a tour?\nBest,\nJordan"
+      },
+      {
+        "timestamp": "16-11-2025 09:30 AM",
+        "from": "Evelyn Parker <evelyn.parker@careconnect.org>",
+        "to": "Jordan Matthews <jordan.matthews@realdynamics.com>",
+        "subject": "Re: Re: Seeking New Healthcare Facility in Manhattan",
+        "body": "Hi Jordan,\n\nThat space sounds promising, but $65k/month is above our budget\u2014max we can do is $55k. Also, we need a corner unit with operable windows and a separate waiting area.\nCan you find something within that range?\nThanks,\nEvelyn"
+      },
+      {
+        "timestamp": "17-11-2025 11:45 AM",
+        "from": "Jordan Matthews <jordan.matthews@realdynamics.com>",
+        "to": "Evelyn Parker <evelyn.parker@careconnect.org>",
+        "subject": "Re: Re: Re: Seeking New Healthcare Facility in Manhattan",
+        "body": "Hi Evelyn,\n\nUnderstood. I have a 4,200 sqft corner unit in East Village with operable windows, a dedicated waiting area, and proximity to subway lines, listed at $58K but the landlord might be flexible if you sign quickly. Would you like to see it?\nLet me know.\nBest,\nJordan"
+      },
+      {
+        "timestamp": "18-11-2025 08:30 AM",
+        "from": "Evelyn Parker <evelyn.parker@careconnect.org>",
+        "to": "Jordan Matthews <jordan.matthews@realdynamics.com>",
+        "subject": "Re: Re: Re: Re: Seeking New Healthcare Facility in Manhattan",
+        "body": "Hi Jordan,\n\nSounds good. Can we schedule a tour for tomorrow at 10 am? Also, please send over floor plans and lease terms.\nThanks,\nEvelyn"
+      },
+      {
+        "timestamp": "19-11-2025 09:10 AM",
+        "from": "Jordan Matthews <jordan.matthews@realdynamics.com>",
+        "to": "Evelyn Parker <evelyn.parker@careconnect.org>",
+        "subject": "Tour Confirmed for Tomorrow 10 AM",
+        "body": "Hi Evelyn,\n\nTour is confirmed for tomorrow at 10 am at 123 East 4th St. I\u2019ve attached the floor plans and the lease summary. The space is in excellent condition and ready for move-in.\nSee you then.\nBest,\nJordan"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "evelyn",
+        "Last Name": "parker",
+        "Email": "evelyn.parker@careconnect.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "careconnect",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown west"
+      },
+      "First Interaction": "12-11-2025",
+      "Last Interaction": "19-11-2025",
+      "Decision-Maker Role": "facilities",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east",
+          "downtown"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "corner unit",
+          "separate waiting area",
+          "ada compliance",
+          "operable windows"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited accessibility",
+        "current space too small"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "10-11-2025 09:15 AM",
+        "from": "Jordan Blake <jordan.blake@prestigeproperties.com>",
+        "to": "Nina Edwards <nina.edwards@artisancare.com>",
+        "subject": "Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Nina,\n\nI\u2019m Jordan Blake with Prestige Properties. I noticed Artisancare is expanding its healthcare services\u2014congrats! Are you currently exploring new office spaces in Manhattan to accommodate your growth?\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "12-11-2025 02:10 PM",
+        "from": "Nina Edwards <nina.edwards@artisancare.com>",
+        "to": "Jordan Blake <jordan.blake@prestigeproperties.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Jordan,\n\nThx for reaching out. Yes, we\u2019re looking for a modern space in Midtown East, roughly 4,000 sqft. Budget around $60k/month. Need quick move\u2014our lease ends end of Dec. Prefer open layout, easy access to public transportation, and some privacy for patient consultations.\n\nThanks,\nNina"
+      },
+      {
+        "timestamp": "13-11-2025 09:45 AM",
+        "from": "Jordan Blake <jordan.blake@prestigeproperties.com>",
+        "to": "Nina Edwards <nina.edwards@artisancare.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Nina,\n\nGreat, I\u2019ve identified a few options. There\u2019s a new listing on 3rd Ave\u2014about 4,200 sqft, with a modern fit-out, private exam rooms, and elevator access. Listed at $62k, but I can negotiate a bit. Would you like to schedule a tour this week?\n\nLet me know what works.\n\nBest,\nJordan"
+      },
+      {
+        "timestamp": "14-11-2025 11:20 AM",
+        "from": "Nina Edwards <nina.edwards@artisancare.com>",
+        "to": "Jordan Blake <jordan.blake@prestigeproperties.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Jordan,\n\nThanks for the options. The $62k is a bit over our cap, but if you can get it down to $58k, we might proceed. Can you send more details? Would prefer to see it sooner rather than later.\n\nBest,\nNina"
+      },
+      {
+        "timestamp": "15-11-2025 04:05 PM",
+        "from": "Jordan Blake <jordan.blake@prestigeproperties.com>",
+        "to": "Nina Edwards <nina.edwards@artisancare.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Hi Nina,\n\nUnderstood. I\u2019ll push the landlord on the $58k price point and aim to confirm a tour by tomorrow afternoon. Do you prefer 2pm or 4pm?\n\nAlso, do you have any must-haves or deal-breakers for the space?\n\nThanks,\nJordan"
+      },
+      {
+        "timestamp": "16-11-2025 02:30 PM",
+        "from": "Nina Edwards <nina.edwards@artisancare.com>",
+        "to": "Jordan Blake <jordan.blake@prestigeproperties.com>",
+        "subject": "Re: Healthcare Office Space Opportunities in Midtown East",
+        "body": "Jordan,\n\n2pm works. Must have good ventilation and ADA compliance, preferably with some natural light. No loud neighbors or disruptive building policies.\n\nLooking forward to seeing it.\n\nThanks,\nNina"
+      },
+      {
+        "timestamp": "16-11-2025 02:45 PM",
+        "from": "Jordan Blake <jordan.blake@prestigeproperties.com>",
+        "to": "Nina Edwards <nina.edwards@artisancare.com>",
+        "subject": "Confirmed: Tour at 2pm tomorrow",
+        "body": "Hi Nina,\n\nConfirmed for 2pm tomorrow at 150 E 52nd St. I\u2019ll send a reminder and additional info shortly.\n\nBest,\nJordan"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "nina",
+        "Last Name": "edwards",
+        "Email": "nina.edwards@artisancare.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "artisancare",
+        "Industry": [
+          "healthcare"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "scaling",
+        "Current Neighborhood": "midtown east"
+      },
+      "First Interaction": "10-11-2025",
+      "Last Interaction": "16-11-2025",
+      "Decision-Maker Role": "founder",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown east"
+        ],
+        "Estimated or Stated Budget": "$60k-$70k",
+        "Must-Haves": [
+          "ventilation",
+          "natural light",
+          "ada compliance"
+        ],
+        "Nice-to-Haves": [
+          "private exam rooms"
+        ],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": ""
+      },
+      "Moving Timeline": "swift (0\u20132 months)",
+      "Pain Points": [
+        "lease ending soon, need quick relocation",
+        "space not suited for patient privacy"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "decisive"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Emily Sutton <emily.sutton@urbancreativelab.com>",
+        "to": "Mark Davis <mark.davis@pinnaclerealty.com>",
+        "subject": "Creative Office Space Inquiry in Chelsea",
+        "body": "Hi Mark,\n\nI\u2019m Emily from Urban Creative Lab. We\u2019re expanding our team and interested in a flexible, open-plan office in Chelsea. Our current lease ends in December, and we\u2019re aiming to move by early next year. Budget around $45k/month, but open to suggestions if the space is ideal. Would love to see some options.\n\nThanks,\nEmily"
+      },
+      {
+        "timestamp": "07-11-2025 02:50 PM",
+        "from": "Mark Davis <mark.davis@pinnaclerealty.com>",
+        "to": "Emily Sutton <emily.sutton@urbancreativelab.com>",
+        "subject": "Re: Creative Office Space Inquiry in Chelsea",
+        "body": "Hi Emily,\n\nThanks for reaching out. I have a few listings in Chelsea that might fit your needs\u2014some with high ceilings, exposed brick, and flexible layouts. One notable option is a 4,500 sqft space at 123 8th Ave, listed at $48k/month. It has large windows and a shared outdoor terrace. Would you be available for a tour next week?\n\nBest,\nMark"
+      },
+      {
+        "timestamp": "08-11-2025 09:20 AM",
+        "from": "Emily Sutton <emily.sutton@urbancreativelab.com>",
+        "to": "Mark Davis <mark.davis@pinnaclerealty.com>",
+        "subject": "Re: Creative Office Space Inquiry in Chelsea",
+        "body": "Hi Mark,\n\nThat sounds promising. We\u2019d prefer to see it sooner rather than later. How does Tuesday at 11am work? Also, can you send floor plans and details on amenities?\n\nThanks,\nEmily"
+      },
+      {
+        "timestamp": "09-11-2025 11:05 AM",
+        "from": "Mark Davis <mark.davis@pinnaclerealty.com>",
+        "to": "Emily Sutton <emily.sutton@urbancreativelab.com>",
+        "subject": "Re: Creative Office Space Inquiry in Chelsea",
+        "body": "Hi Emily,\n\nTuesday at 11am works perfectly. I\u2019ll prepare the floor plans and arrange for the building manager to join us. Just to confirm, your budget remains around $45k, and you prefer open space with high ceilings?\n\nBest,\nMark"
+      },
+      {
+        "timestamp": "09-11-2025 03:45 PM",
+        "from": "Emily Sutton <emily.sutton@urbancreativelab.com>",
+        "to": "Mark Davis <mark.davis@pinnaclerealty.com>",
+        "subject": "Re: Creative Office Space Inquiry in Chelsea",
+        "body": "Hi Mark,\n\nYes, open layout, high ceilings, and modern amenities are key. Budget is tight but flexible for the right space. We\u2019re debating whether to sign a 3 or 5-year lease. Looking forward to touring Tuesday.\n\nBest,\nEmily"
+      },
+      {
+        "timestamp": "10-11-2025 10:00 AM",
+        "from": "Mark Davis <mark.davis@pinnaclerealty.com>",
+        "to": "Emily Sutton <emily.sutton@urbancreativelab.com>",
+        "subject": "Re: Creative Office Space Inquiry in Chelsea",
+        "body": "Hi Emily,\n\nGreat, I\u2019ll meet you at 123 8th Ave at 11am tomorrow. The landlord is offering a free month if you sign within two weeks, which might help with your budget considerations. Also, I\u2019ll bring some alternative options with similar features.\n\nSee you then,\nMark"
+      },
+      {
+        "timestamp": "10-11-2025 11:30 AM",
+        "from": "Emily Sutton <emily.sutton@urbancreativelab.com>",
+        "to": "Mark Davis <mark.davis@pinnaclerealty.com>",
+        "subject": "Re: Creative Office Space Inquiry in Chelsea",
+        "body": "Thanks, Mark. Appreciate the proactive approach. We\u2019ll review the space tomorrow and decide quickly. Probably leaning towards a 3-year lease unless we fall in love with the space\u2014and the deal.\n\nSee you soon,\nEmily"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "emily",
+        "Last Name": "sutton",
+        "Email": "emily.sutton@urbancreativelab.com",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "urban creative lab",
+        "Industry": [
+          "creative"
+        ],
+        "Company Size": "small (20-75 employees)",
+        "Growth Stage": "early-stage",
+        "Current Neighborhood": "midtown west"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "10-11-2025",
+      "Decision-Maker Role": "founder",
+      "Property Preferences": {
+        "Property Type": "office",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$40k-$50k",
+        "Must-Haves": [
+          "exposed brick",
+          "high ceilings",
+          "modern amenities"
+        ],
+        "Nice-to-Haves": [
+          "outdoor space",
+          "flexible layout"
+        ],
+        "Space Size": "5000-7499 sf",
+        "Preferred Lease Term": "3 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "need flexible lease terms",
+        "current space too cramped"
+      ],
+      "Urgency Score": "7",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  },
+  {
+    "email_chain": [
+      {
+        "timestamp": "05-11-2025 10:15 AM",
+        "from": "Broker Jane Daniels <jane.daniels@premierproperties.com>",
+        "to": "Decision@ecoartisans.org",
+        "subject": "Creative Studio Space Opportunity in Chelsea",
+        "body": "Hello,\n\nI'm Jane Daniels from Premier Properties. I came across EcoArtisans and thought you might be interested in a unique retail/creative flex-space available in Chelsea. Given your focus on sustainable art projects, this could be a perfect fit.\n\nWould you be open to a quick call or tour?\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "07-11-2025 02:45 PM",
+        "from": "Decision@ecoartisans.org",
+        "to": "Jane.Daniels@premierproperties.com",
+        "subject": "Re: Creative Studio Space Opportunity in Chelsea",
+        "body": "Hi Jane,\n\nThx for reaching out. We\u2019re actually planning to expand into a space that\u2019s flexible for both gallery and workshop use. Our current spot is too small \u2014 about 1,200 sqft.\n\nOur budget is around $35k/month, and we need the space by end of Dec. Also, should have good natural light and high ceilings.\n\nCan you send some options?\n\nThanks,\nEli"
+      },
+      {
+        "timestamp": "08-11-2025 09:30 AM",
+        "from": "Jane.Daniels@premierproperties.com",
+        "to": "Decision@ecoartisans.org",
+        "subject": "Re: Creative Studio Space Opportunity in Chelsea",
+        "body": "Good morning,\n\nI have a few listings that match your criteria. One is a 1,500 sqft retail/creative space at 10th Ave, with large windows and 16 ft ceilings, priced at $34.5k/month. It's available immediately.\n\nWould you like to schedule a tour for this week?\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "09-11-2025 11:00 AM",
+        "from": "Decision@ecoartisans.org",
+        "to": "Jane.Daniels@premierproperties.com",
+        "subject": "Re: Creative Studio Space Opportunity in Chelsea",
+        "body": "Hi Jane,\n\nYes, that sounds promising. We\u2019d prefer to see it sooner rather than later. How about tomorrow at 11 am?\n\nAlso, can you confirm if the landlord is flexible on the lease term? Thinking of 2-3 years max.\n\nThanks,\nEli"
+      },
+      {
+        "timestamp": "10-11-2025 08:00 AM",
+        "from": "Jane.Daniels@premierproperties.com",
+        "to": "Decision@ecoartisans.org",
+        "subject": "Re: Creative Studio Space Opportunity in Chelsea",
+        "body": "Hi Eli,\n\nTomorrow at 11 am works. I\u2019ll book the tour and confirm the details. The landlord is open to a 2-year lease, with options to extend.\n\nLooking forward to showing you the space.\n\nBest,\nJane"
+      },
+      {
+        "timestamp": "10-11-2025 12:30 PM",
+        "from": "Decision@ecoartisans.org",
+        "to": "Jane.Daniels@premierproperties.com",
+        "subject": "Re: Creative Studio Space Opportunity in Chelsea",
+        "body": "Thanks, Jane. Appreciate it. Also, just FYI, we\u2019re a non-profit, so we need to confirm if there's any rent reduction or incentives for non-profits.\n\nSee you tomorrow.\n\nEli"
+      },
+      {
+        "timestamp": "11-11-2025 09:00 AM",
+        "from": "Jane.Daniels@premierproperties.com",
+        "to": "Decision@ecoartisans.org",
+        "subject": "Re: Creative Studio Space Opportunity in Chelsea",
+        "body": "Good morning,\n\nThanks for the heads-up. I will discuss with the landlord about potential incentives for non-profits. The space is quite desirable, but I\u2019ll see what can be done.\n\nSee you at 11 am.\n\nBest,\nJane"
+      }
+    ],
+    "tenant_profile": {
+      "Tenant Representative Details": {
+        "First Name": "eli",
+        "Last Name": "torres",
+        "Email": "decision@ecoartisans.org",
+        "Phone": "unknown"
+      },
+      "Company Details": {
+        "Company Name": "ecoartisans",
+        "Industry": [
+          "nonprofit"
+        ],
+        "Company Size": "micro (5-20 employees)",
+        "Growth Stage": "early-stage",
+        "Current Neighborhood": "midtown west"
+      },
+      "First Interaction": "05-11-2025",
+      "Last Interaction": "11-11-2025",
+      "Decision-Maker Role": "founder",
+      "Property Preferences": {
+        "Property Type": "flex-space",
+        "Preferred Neighborhood": [
+          "midtown west"
+        ],
+        "Estimated or Stated Budget": "$30k-$40k",
+        "Must-Haves": [
+          "natural light",
+          "high ceilings",
+          "flexible lease"
+        ],
+        "Nice-to-Haves": [],
+        "Space Size": "1000-2499 sf",
+        "Preferred Lease Term": "2 year"
+      },
+      "Moving Timeline": "prompt (2\u20136 months)",
+      "Pain Points": [
+        "limited current space",
+        "need flexible environment for gallery and workshop"
+      ],
+      "Urgency Score": "8",
+      "Outcome": "tour scheduled",
+      "Tenant Personality": "hesitant"
+    }
+  }
+]
